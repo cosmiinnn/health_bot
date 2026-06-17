@@ -1,0 +1,102 @@
+https://www.reginamaria.ro/utile/dictionar-de-afectiuni/hiperglicemia-de-stres
+
+Contactează-ne!
+Ai simptome care te supără? Solicită chiar acum un sfat medical specializat.
+Solicită o programare
+Sună la 021 9268
+Hiperglicemia de stres, abreviata ca SIH (stress induced hyperglicemia), reprezinta cresterea nivelului de zahar din sange ca raspuns al organismului la diverse afectiuni acute (ex. infarct miocardic acut, accident vascular cerebral acut, infectii, interventii chirurgicale, traumatisme, boli terminale) si poate fi un marker al severitatii bolii.
+Se intalneste frecvent la pacientii internati in spital, in sectiile de terapie intensiva si este responsabila de o serie de complicatii, precum si de cresterea duratei de spitalizare. Intre 30% si 60% dintre pacientii nediabetici care dezvolta hiperglicemie de stres tranzitorie in timp ce sunt internati vor avea diabet confirmat in decurs de un an.
+Cauze
+Cauzele hiperglicemiei de stres sunt multifactoriale.
+Sistemul neuroendocrin:
+Stresul fiziologic (infectii, boli grave, etc) si emotional semnificativ duce la activarea intensa a hormonilor contrareglatori, cum ar fi cortizolul, epinefrina (adrenalina), noradrenalina, glucagonul si hormonul de crestere, care cresc nivelul de zahar din sange.
+Cand este stresat, organismul se pregateste, asigurandu-se ca are disponibil suficient zahar sau energie. Nivelurile de insulina scad, nivelurile de glucagon si epinefrina (adrenalina) cresc si mai multa glucoza este eliberata din ficat.
+In acelasi timp, nivelurile hormonului de crestere si al cortizolului cresc, ceea ce face ca tesuturile corpului (muschi si grasimi) sa fie mai putin sensibile la insulina iar influxul de glucoza in celule sa scada. Ca rezultat, mai multa glucoza este disponibila in fluxul sanguin.
+Raspunsul la stres este, asadar, mediat de axul hipotalamo-hipofizo-adrenal si de sistemul simpato-adrenal. Principalele modificari constau in cresterea productiei hepatice de glucoza, a glicogenolizei (eliberarea glucozei din depozitele unde este stocata sub forma de glicogen) si a insulinorezistentei (celulele devin refractare la insulina si prin urmare, aceasta nu mai poate facilita intrarea glucozei in celule).
+Citokine inflamatorii:
+Eliberarea de citokine inflamatorii determina o crestere a rezistentei periferice la insulina si a productiei hepatice de glucoza.
+Factori iatrogeni:
+Utilizarea tratamentului cu glucocorticoizi (cortizon) si nutritia parenterala (perfuzii) si enterala in spital cu glucoza contribuie, de asemenea, la hiperglicemie.
+Care este relatia dintre hiperglicemie si boala acuta?
+Hiperglicemia severa are un impact negativ asupra sistemului vascular, hemodinamic si imunitar. Hiperglicemia poate determina un dezechilibru electrolitic, leziuni ale mitocondriilor si disfunctii ale celulelor imune (neutrofile) sau vasculare (endoteliale).
+Boala acuta creste riscul de hiperglicemie prin eliberarea de hormoni contrareglatori, rezistenta crescuta la insulina si imobilitate.
+Desi medicii au incercat sa scada strict glicemia in afectiunile critice mentinand-o in limite foarte stranse, s-a observat ca un control prea rigid si strict al valorilor zaharului in sange a dus la cresterea mortalitatii la pacientii critici (studiul NICE-SUGAR).
+Unele studii au aratat ca hiperglicemia protejeaza impotriva leziunilor patologice, cum ar fi hipoxia si apoptoza (moartea celulara), promovand in acelasi timp angiogeneza de novo (formarea de noi vase sanguine). Astfel, hiperglicemia de stres este un ultim efort al organismului de a redirectiona disponibilitatea glucozei catre organele vitale si de a pastra functionarea acestora pe termen scurt, chiar daca pretul pe termen lung este deteriorarea tesuturilor.
+Cu toate acestea, o crestere prelungita a concentratiilor de glucoza din sange poate fi daunatoare, deoarece promoveaza apoptoza (moartea) celulelor cardiace, creste sansele de leziune renala acuta si este asociata cu complicatii redutabile in infarctul de miocard, accidentul vascular cerebral sau hemoragia subarahnoidiana.
+De aceea, ghidurile actuale recomanda un control adecvat al valorilor glicemiei, in functie de starea pacientilor, pentru a preveni atat complicatiile rezultate din cresterea prelungita a zaharului in sange, cat si a celor rezultate dintr-un control prea strict al glicemiei.
+Factori de risc
+Nivelul glicemiei ca raspuns la stres depinde de intensitatea factorului declansator.
+Hiperglicemia la pacientii in stare critica este o constatare frecvent observata, de obicei evidenta in primele 48 de ore de la internarea la ATI la cel putin 50% dintre pacienti.
+Factorii declansatori ai hiperglicemiei de stres care determina cele mai ridicate niveluri de epinefrina si norepinefrina sunt:
+Hemoragia
+Hipoxia
+Infectiile
+Traumatismele
+Simptomatologie
+Adesea hiperglicemia de stres poate fi asimptomatica.
+In unele cazuri, se manifesta prin polidipsie, poliurie, polifagie, incetosarea vederii, ameteli.
+Diagnostic
+Hiperglicemia de stres a fost definita ca o glicemie peste 180 mg/dL la internare (unii definesc SIH peste 200 mg/dL), opiniile specialistilor nu au ajuns insa la un consens.
+Cu toate acestea, avand in vedere rezultatele unui studiu de terapie intensiva de la Leuven, unii specialisti sunt de parere ca hiperglicemia de stres ar trebui luata in considerare acum la orice pacient grav bolnav cu o glicemie mai mare de 110 mg/dL. In acest studiu doar 12% dintre pacientii critici au avut glicemie initiala peste 200 mg/dL, 75 % dintre pacienti au avut o glicemie la internare mai mare de 110 mg/dL, iar 97,5% dintre ei au inregistrat o glicemie de peste 110 mg/dL oricand pe durata internarii.
+Pacientilor nediagnosticati anterior internarii cu diabet zaharat, care prezinta glicemie >140 mg/dl, li se recomanda determinarea HbA1c (hemoglobina glicozilata). Daca valoarea HbA1c la internare este ≥6,5%, se confirma diagnosticul de DZ preexistent. Altfel, cresterea glicemiei fara valori anormale ale HbA1c si fara diabet zaharat in antecedente, pledeaza pentru hiperglicemia de stres (SIH).
+Tratament
+Medicul diabetolog are rolul de a stabili un plan de management al bolii atat in timpul internarii cat si la externare, care ar trebui sa tina cont de o serie de factori cum ar fi:
+varsta
+abilitatile cognitive
+modelele alimentare
+activitatea fizica
+precum si o serie de informatii legate de boala de baza: istoricul bolii, comorbiditati, tipuri de terapie si speranta de viata.
+Un studiu a aratat ca fiecare crestere cu 10 mg/dl a nivelului de glucoza din sange peste 120 mg/dl a fost asociata cu o crestere exponentiala a mortalitatii pacientilor. Este necesara o atenta monitorizare pe perioada internarii, urmarind evolutia glicemiei care se poate normaliza cand afectiunea care a declansat hiperglicemia intra in remisie.
+Tintele glicemice (valorile urmarite de medic) pentru majoritatea pacientilor critici (in stare grava) si non-critici sunt de 140-180 mg/dl.
+Tinte glicemice mai stricte intre 110 si 140 mg/dl pot fi adecvate la anumiti pacienti daca se pot obtine fara un risc semnificativ de hipoglicemie.
+Valori glicemice <70 mg/dl (hipoglicemie) impun revizuirea schemelor terapeutice pentru evitarea unor episoade subsecvente de hipoglicemie.
+Valorile glicemice persistent crescute >140 mg/dl necesita modificari de dieta sau ale medicatiei cu potential hiperglicemiant.
+Valori glicemice peste 180 mg/dl pot fi acceptate la pacienti cu boli in faza terminala, cei cu comorbiditati severe sau in sectii in care monitorizarea frecventa a glicemiilor si ingrijirile intense de nursing nu sunt disponibile.
+Tratamentul cu o perfuzie intravenoasa de insulina
+Terapia intravenoasa cu insulina trebuie initiata pentru tratamentul hiperglicemiei persistente incepand cu o concentratie de glucoza din sange de 180 mg/dL.
+Datorita timpului scurt de injumatatire al insulinei circulante (minute), o perfuzie de insulina poate fi ajustata frecvent pentru a se potrivi cu nevoile variabile de insulina ale pacientilor in stare critica.
+Tratament cu insulina administrata subcutanat
+Tranzitia de la o perfuzie de insulina la un program de insulina subcutanat se poate face cand pacientii sunt stabili clinic. La pacientii care mananca, s-a demonstrat ca utilizarea insulinei bazale administrata o data sau de doua ori pe zi in combinatie cu insulina cu actiune rapida programata in timpul mesei si o componenta suplimentara (corectie) mentine un control glicemic adecvat fara hipoglicemie semnificativa clinic. Terapia cu insulina subcutanata ar trebui initiata cu cel putin 2 ore inainte de intreruperea perfuziei cu insulina pentru a reduce riscul de hiperglicemie.
+Complicatii
+Este de remarcat faptul ca multe boli critice asociaza puternic hiperglicemia indusa de stres (SIH) cu rezultate adverse, cum ar fi cresterea mortalitatii. Hiperglicemia indusa de stres a fost asociata cu complicatii la pacientii cu traumatisme, infarct miocardic acut si hemoragie subarahnoidiana .
+Mai mult, hiperglicemia de stres creste riscul de dezvoltare a diabetului zaharat de tip 2 (DM2) mai tarziu in viata.
+Infarctul miocardic acut (IMA) este o astfel de boala in care hiperglicemia de stres este frecventa.
+Complicatiile la pacientii cu infarct miocardic (IMA) cresc atunci cand sunt asociate cu SIH.
+Studiile au aratat o incidenta crescuta a complicatiilor la pacientii cu IMA si SIH, cum ar fi:
+aritmii (tuburari de ritm)
+soc cardiogen
+progresia catre insuficienta cardiaca severa
+crestere semnificativa a mortalitatii.
+Un alt studiu efectuat la pacientii varstnici cu IMA care aveau glicemia ridicata (SIH) a analizat valorile glicemice la internare si complicatiile aparute in cursul spitalizarii. Mai exact, medicii au calculat raportul hiperglicemic de stres (SHR) adica un raport intre glicemia a jeun (recoltata pe nemancate) la internare si HbA1c (hemoglobina glicozilata). Este un indice al hiperglicemiei de stres relativ si este folosit ca valoare de prognostic in IMA.
+Rezultatele studiului au aratat ca cei cu raport hiperglicemic de stres (SHR) crescut au avut o rata mai mare de complicatii in cursul spitalizarii, cum ar fi: mortalitate de orice cauza si evenimentele adverse cardiace si cerebrovasculare, cum ar fi socul cardiogen, reinfarctul, complicatiile mecanice ale IM, accidentul vascular cerebral si sangerarea severa.
+Accidentul vascular cerebral (AVC): Hiperglicemia de stres la pacientii cu AVC este asociat cu un risc crescut de recidiva si mortalitate de orice cauza.
+Datele din registrul ACROSS-China au demonstrat ca o crestere a raportului hiperglicemic de stres (SHR) a fost asociata cu o rata de recidiva crescuta si cu complicatii care duc la mortalitate la pacientii cu AVC ischemic acut.
+De asemenea hiperglicemia de stres duce la transformarea hemoragica a accidentului vascular cerebral ischemic acut.
+Prognostic
+Pacientii cu hiperglicemie de stres (SIH) au o rata de mortalitate mai mare si un timp de spitalizare mai lung in comparatie cu pacientii cu diabet zaharat cunoscut si cu normoglicemie.
+Au o evolutie mai nefavorabila inclusiv in comparatie cu pacientii diabetici cu un grad comparabil de hiperglicemie.
+Pacientii non-diabetici cu hiperglicemie de stres (SIH) au un risc de deces de 3,9 ori mai mare dupa infarct miocardic in comparatie cu pacientii non-diabetici normoglicemici. Aceeasi constatare este evidenta si la pacientii cu AVC.
+Intre 30% si 60% dintre pacientii cu SIH vor fi diagnosticati cu diabet zaharat in decurs de un an de la episodul hiperglicemic tranzitor din spital.
+Autor:
+Dr.
+Emanuela Ferencz
+, medic specialist Diabet zaharat, nutritie si boli metabolice in Ponderas Academic Hospital
+Surse de informatie:
+Stress hyperglycemia: an essential survival response! –Paul E Marik and Rinaldo Bellomo
+Ghid de management al diabetului zaharat elaborate de Societatea Romana de Diabet, nutritie si Boli Metabolice
+ESC/EASD Guidelines on diabetes, prediabetes and cardiovascular diseases 2019
+https://www.cureus.com/articles/100945-stress-induced-hyperglycemia-consequences-and-management#references
+https://www.todayshospitalist.com/new-warnings-on-stress-hyperglycemia/
+Cere o programare
+Nume
+Prenume
+Email
+Telefon
+Sunt de acord sa primesc e-mailuri despre noutati si oferte personalizate.
+Acord
+Prin completarea formularului de mai sus sunt de acord sa fiu contactat/a de catre Reteaua de sanatate REGINA MARIA in legatura cu serviciile medicale solicitate
+Acest site este protejat de reCAPTCHA si se aplica
+Politica de confidentialitate
+si
+Termeni si conditii
+.

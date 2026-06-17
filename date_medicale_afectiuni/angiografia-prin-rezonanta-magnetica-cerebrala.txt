@@ -1,0 +1,120 @@
+https://www.reginamaria.ro/utile/dictionar-de-afectiuni/angiografia-prin-rezonanta-magnetica-cerebrala
+
+Contactează-ne!
+Ai simptome care te supără? Solicită chiar acum un sfat medical specializat.
+Solicită o programare
+Sună la 021 9268
+Angiografia prin rezonanta magnetica cerebrala este o metoda non-invaziva si neiradianta de evaluare a vaselor mari (artere si vene) din interiorul neurocraniului, similara angiografiei clasice sau angiografiei CT, dar fara expunere la radiatiile ionizante (razele X).
+Angiografia prin rezonanta magnetica
+(denumita si angiografia IRM sau angio-RM) este o aplicatie recenta a investigatiei IRM (RMN) de examinare a vaselor. Utilizeaza un camp magnetic  puternic, unde de radiofrecventa si un computer pentru evaluarea vaselor de sange si identificarea eventualelor anomalii. In multe cazuri, angiografia IRM furnizeaza informatii care nu pot fi obtinute printr-o scanare cu raze X, ultrasunete sau tomografie computerizata (CT). Angiografia prin rezonanta magnetica permite obtinerea unor imagini cu rezolutie inalta a unor variate artere si vene din intreg organismul: cap, regiunea cervicala (gat), torace, inima, abdomen, pelvis si membrele inferioare si superioare.
+Diferenta dintre IRM cerebral si angiografia IRM cerebrala
+Examenul IRM (RMN) cerebral permite aprecieri asupra anatomiei creierului si structurilor craniene, cat si evaluarea unor leziuni cerebrale.
+Angiografia IRM cerebrala permite vizualizarea separata a arterelor si venelor cerebrale.
+Tipuri
+Angiografia prin rezonanta magnetica cerebrala poate fi efectuata cu sau fara substanta de contrast.
+Angio-RM nativ
+Se efectueaza nativ, fara administrarea de substanta de contrast paramagnetica
+Se bazeaza pe miscarea coloanei de sange din interiorul vasului
+Permite vizualizarea arterelor mari endocraniene si a traiectelor venoase mari ale neurocraniului
+Angio-RM cu injectare de substanta de contrast
+Se bazeaza pe umplerea vaselor cu substanta de contrast
+Permite vizualizarea interiorului arterelor si venelor (atunci cand vasele sunt permeabile), respectiv a defectelor de umplere cand vasele sunt partial sau complet ocluzionate (blocate).
+Se foloseste o substanta de contrast paramagnetica pe baza de gadoliniu care este injectata intravenos printr-o mica branula montata la nivelul bratului. Gadoliniu este mult mai putin probabil sa cauzeze o reactie alergica, comparativ cu substantele de contrast cu iod folosite la examinarea CT.
+Indicatii
+Evaluarea circulatiei intracraniene ofera informatii valoroase pentru diagnosticul si prognosticul diferitelor anomalii intracraniene si poate influenta tratamentul pacientului. Progresul in tehnologie in angiografia prin rezonanta magnetica a imbunatatit acuratetea acestei tehnici in diferite situatii clinice, cum ar fi anevrisme, boli obstructive arteriale si venoase, malformatii vasculare, boli arteriale inflamatorii, evaluarea preoperatorie a permeabilitatii sinusurilor venoase durale si anomalii vasculare congenitale. In multe departamente de imagistica, angio-RM a inlocuit angiografia cu substractie digitala (ASD) conventionala in screening-ul bolii vasculare intracraniene, datorita caracterului sau non-invaziv si neiradiant.
+Principalele indicatii ale angiografiei RM cerebrale sunt:
+Anevrisme arteriale cerebrale
+Malformatii arteriovenoase cerebrale
+Alte anomalii ale arterelor cerebrale (stenoze, ocluzii, disectii)
+Tromboza venoasa cerebrala (vene cerebrale majore si sinusuri venoase durale)
+Metoda imagistica de prima alegere in cazul screeningul persoanelor apartinand unor grupe de risc: migrena, anamneza familiala pozitiva pentru anevrisme si hemoragie subarahnoidiana
+Angio-RM este recomandata post-COVID-19
+In sindroamele cefalalgice post-COVID-19, angiografia prin rezonanata magnetica este o investigatie imagistica valoroasa care permite evaluarea parenchimului cerebral si a vaselor mari endocraniene.
+De asemenea, angiografia IRM venoasa permite aprecierea permeabilitatii venelor mari, permitand diagnosticarea trombozelor venoase endocraniene cand se identifica obstructia completa sau partiala a acester vene.
+Tromboza venoasa apare in tulburari de coagulare sau modificari de tip trombembolic si poate avea diferite localizari, inclusiv la nivelul venelor mari ale capului. Diagnosticul de tromboza venoasa cerebrala se poate efectua cu ajutorul investigatiilor imagistice de tipul angiografiei CT sau angiografiei RM.
+Avantaje
+Furnizeaza imagini de inalta rezolutie a arterelor si venelor de la nivel cerebral.
+Neiradianta
+Comparativ cu angiografia CT sau cu angiografia conventionala, angio-RM nu utilizeaza radiatii ionizante (raze X). De aceea, este metoda imagistica de prima alegere la copii, femeile insarcinate, pentru controlul posterapeutic al anevrismelor cerebrale sau la pacientii oncologici care necesita efectuarea unor examinari imagistice seriate, multiple.
+Non-invaziva
+Comparativ cu angiografia clasica care necesita introducerea unui cateter prin punctionarea unei artere de la nivelul membrului inferior, angiografia prin rezonanta magnetica este un test non-invaziv si nedureros. Chiar si atunci cand este recomandata administrarea de substanta de contrast, aceasta se introduce printr-o branula montata intr-o vena de la nivelul bratului, similar cu procedura obisnuita pentru tratamentul perfuzabil.
+Risc scazut de reactii alergice
+Poate fi utilizata la pacientii cu alergie la substantele de contrast iodate utilizate la examinarea CT, intrucat secventa de angiografie RM nativa nu foloseste substanta de contrast, iar in cazul angiografiei IRM cu substanta de contrast se foloseste gadoliniu, care are un risc extrem de scazut (0.01%) de reactii alergice severe.
+Contraindicatii
+RMN-ul este un aparat care creeaza un camp magnetic puternic in jurul pacientului. Ca urmare, in acest camp magnetic nu pot fi introduse metale sau alte dispozitive feromagnetice care ar putea fi atrase in interiorul tubului. De aceea, este foarte important sa discuti cu medicul imagist si sa-l informezi daca ai astfel de dispozitive in corp.
+Contraindicatii absolute
+Exemple de obiecte metalice care interzic efectuarea examenului angio-RM cerebral:
+Valve metalice cardiace, pacemaker, defibrilator cardiac intern, cleme pentru anevrism incompatibile cu examinarea IRM
+Corp strain metalic intraocular posttraumatic
+Implanturi cohleare metalice
+Fragmente metalice, cum ar fi gloante, granule de pusca si schije metalice
+Sisteme de neurostimulare implantabile
+Pompe de perfuzie pentru administrarea de medicamente (insulina, analgezice sau pompe de chimioterapie). Daca este posibil, pacientul trebuie sa isi scoata dispozitivul.
+Catetere cu componente metalice
+Contraindicatii relative
+Situatii care trebuie clarificate inainte de efectuarea investigatiei:
+Pacemaker (stimulator cardiac permanent), defibrilator cardiac intern
+, proteze metalice, clipuri anevrismale de generatie noua - majoritatea acestor dispozitive noi care sunt aprobate pentru a fi folosite in Comunitatea Europeana sunt confectionate din materiale neferomagnetice (titan, nichel) fiind compatibile cu examinarea IRM. Medicul specialist care le-a implantat va trebui sa clarifice daca examinarea prin rezonanta magnetica se poate efectua sau nu. In plus, de exemplu in cazul defibrilatorului cardiac intern medicul cardiolog aritmolog va trebui sa programeze in prealabil aparatul, astfel incat acesta sa nu administreze socuri electrice inadecvate. Frecvent, pacientul primeste un card unde sunt trecute aceste informatii.
+Femeile insarcinate in primul trimestru de sarcina. Angiografia RM se poate efectua dupa saptamana 12 de sarcina sau cand beneficiul examinarii depaseste riscul cauzat de neefectuarea examenului angio-RM. Daca alaptezi si esti ingrijorata daca substanta de contrast  utilizata este sigura pentru copil, discuta cu medicul imagist. Majoritatea expertilor considera ca foarte putina substanta de contrast va trece in laptele matern si chiar mai putina este transmisa copilului. Daca preferi, poti pastra din timp o parte din lapte si il poti folosi timp de 1-2 zile dupa investigatie, timp in care substanta de contrast va fi eliminata din corp.
+Pacientii cu claustrofobie pot avea un disconfort sau anxietate care imipedica efectuarea investigatiei - in astfel de cazuri, testul se poate efectua cu sedare.
+Gadoliniu (substanta de contrast) este contraindicat in afectiuni renale semnificative. La acesti pacienti, poate sa apara o afectiune rara, dar severa, denumita fibroza sistemica nefrogena.
+Riscuri
+Rolul anamnezei inainte de examinare este de a exclude riscurile potentiale. De aceea, daca este necesar, in anumite situatii, examinarea se va face in prezenta medicului urgentist, iar personalul medical trebuie informat corect despre patologia cunoscuta a pacientului pentru a asigura toate conditiile de protectie a acestuia. Pacientul, informat despre procedura, trebuie sa isi dea acordul prin consimtamantul scris semnat.
+Angiografia IRM de cele mai multe ori nu determina efecte secundare sau complicatii. Insa asemmanator oricarei alte proceduri medicale, exista anumite riscuri asumate, inclusiv punerea unei branule pentru administrarea intravenoasa a substantei de contrast.
+Pregatire
+Angio-RM cerebrala nu necesita o pregatire speciala.
+Inainte de a face angio-RM, informeaza medicul sau tehnicianul de imagistica daca:
+Ai mai facut vreodata un test imagistic (angio-RM, RMN sau CT) cu substanta de contrast
+Esti alergic la substantele de contrast sau orice medicamente. Substanta de contrast utilizata pentru angio-RM - gadoliniu - nu contine iod. Daca stii ca esti alergic la aceasta substanta, spune-i medicului inainte de a face o noua examinare.
+Ai o problema serioasa de sanatate, cum ar fi diabet sau boala cronica de rinichi (insuficienta renala).
+Esti insarcinata sau ai putea fi insarcinata sau alaptezi.
+Ai orice dispozitiv metalic implantat in corp. Aceasta informatie il ajuta pe medicul imagist sa stie daca investigatia este sigura in cazul tau.
+Daca ai teama de spatii inchise (claustrofobie). Testul se poate efectua cu sedare.
+Deoarece investigatia se efectueaza sub infuenta unui camp magnetic puternic, inainte de examinare ti se va cere sa scoti toate obiectele metalice (bijuterii, agrafe de par, ceas, dispozitive de auz, ochelari, proteza dentara etc.).
+Tehnicianul imagist
+te va informa despre:
+Cum va decurge examinarea
+Cat dureaza
+Ca va fi examinat strict un anumit segment anatomic de interes - in cazul angiografiei IRM cerebrale scanarea se va face la nivelul capului.
+Ca aparatul functioneaza producand anumite zgomote care pot fi atenuate prin dopuri auriculare sau casti.
+Ca pe durata examinarii trebuie sa stai nemiscat asa cum ai fost pozitionat.
+Imaginile de rezolutie inalta sunt dependente de abilitatea pacientului de a sta nemiscat si de a urma cu exactitatea instructiunile. In cazul copiilor mici care coopereaza mai greu si al pacientilor cu anxietate de spatii inchise (claustrofobie) sau carora le este teama de aceasta investigatie, examinarea se poate face cu sedare.
+Consimtamant
+Ai dreptul de a refuza examinarea. Odata ce ai fost informat si esti de acord cu efectuarea angiografiei prin rezonanta magnetica, ti se va cere sa completezi si sa semnezi un formular de consimtamant in care se mentioneaza ca ai inteles riscurile si ca esti de acord cu efectuarea acesteia.
+In timpul efectuarii investigatiei
+RMN-ul este un aparat cilindric sub forma unui tub mare, asemanator unui tunel deschis in ambele parti. In timpul angiografiei IRM, vei sta intins pe spate pe o masa care culiseaza (aluneca) in interiorul aparatului care contine magnetul, partea corpului care este scanata (in acest caz, craniul) fiind in centrul acestuia. Miscarea lenta a mesei in interiorul tunelului va fi actionata de catre tehnician de la departare, cu o telecomanda.
+In interiorul scanner-ului, este posibil sa auzi un ventilator si sa simti miscarea aerului. De asemenea, este posibil sa auzi zgomote ca niste batai sau bubuituri, in timp ce sunt efectuate scanarile. Poti cere dopuri pentru urechi pentru a reduce zgomotul.
+Este important sa ramai complet nemiscat in timp ce se efectueaza testul. In caz contrar, pot fi necesare scanari repetate.
+Vei fi singur in camera unde se afla aparatul RMN. Insa tehnicianul te va observa printr-o fereastra din camera de alaturi si iti va da indicatii si va comunica cu tine pe toata durata examinarii. La randul tau, vei putea vorbi cu el in orice moment. Tehnicianul iti va spune ce se intampla, cand sa stai nemiscat si daca trebuie sa respiri adanc si sa iti tii respiratia. Daca simti un disconfort, ai nevoie sa te misti sau iti este teama, spune-i asistentului. Acesta iti poate da un sedativ care te va ajuta sa te relaxezi.
+Daca este nevoie de administrarea substantei de contrast, tehnicianul va monta o branula, frecvent la nivelul plicii cotului, prin care se va injecta automat substanta de contrast. Este posibil sa simti o senzatie usoara de racoare cand este introdusa substanta intravenos. In cazuri rare, poti simti:
+Senzatie de furnicaturi la nivelul gurii daca ai obturatii dentare metalice.
+Caldura in zona examinata. Este ceva normal. Spune-i tehnicianului daca ai greata, senzatia de varsaturi, dureri de cap, ameteli, durere, senzatie de arsura sau dificultate in respiratie.
+Cand scanarea este terminata, ti se va cere sa astepti pana cand tehnicianul verifica imaginile. Durata investigatiei angio-RM este in medie de 15-30 minute.
+Dupa examinare, poti pleca acasa si iti poti continua activitatile normale.
+Daca s-a folosit substanta de contrast:
+Tehnicianul va scoate acul de la nivelul bratului.
+Substanta de contrast se va elimina (va iesi din corp) prin urina. Nu o vei observa deoarece este incolora. Este recomandat sa bei multe lichide in acea zi.
+Daca examinarea s-a facut cu sedare:
+Nu trebuie sa conduci masina (trebuie sa aranjezi ca altcineva sa te duca acasa si sa te supravegheze timp de 24 de ore dupa aceea).
+Nu trebuie sa manipulezi utilaje in ziua examinarii.
+Rezultate
+Imaginile obtinute vor fi interpretate de catre medicul specialist in radiologie-imagistica medicala care are competenta in imagistica prin rezonanta magnetica (IRM). Acesta va scrie un raport imagistic. Imaginile pot fi pe film si/sau inregistrate pe CD. Rezultatul va fi eliberat in cateva ore pana la 2-3 zile. Va trebui apoi sa te intorci la medicul care a facut recomandarea care iti va explica semnificatia rezultatului si pasii urmatori.
+Surse de informatie:
+www.pubmed.ncbi.nlm.nih.gov
+www.radiologyinfo.org
+www.hopkinsmedicine.org
+Consultant: Dr. Adina Chirita, Medic Primar Medicina Nucleara, Medic Specialist Radiodiagnostic si Imagistica Medicala, Doctor in Stiinte Medicale, competente IRM si CT, Centrul de Imagistica Baneasa
+Text: Dr. Ileana Andreescu, Senior Medical Editor
+Cere o programare
+Nume
+Prenume
+Email
+Telefon
+Sunt de acord sa primesc e-mailuri despre noutati si oferte personalizate.
+Acord
+Prin completarea formularului de mai sus sunt de acord sa fiu contactat/a de catre Reteaua de sanatate REGINA MARIA in legatura cu serviciile medicale solicitate
+Acest site este protejat de reCAPTCHA si se aplica
+Politica de confidentialitate
+si
+Termeni si conditii
+.

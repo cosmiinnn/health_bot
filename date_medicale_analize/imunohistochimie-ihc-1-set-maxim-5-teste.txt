@@ -1,0 +1,124 @@
+https://www.reginamaria.ro/utile/dictionar-de-analize/imunohistochimie-ihc-1-set-maxim-5-teste
+
+Contactează-ne!
+Ai simptome care te supără? Solicită chiar acum un sfat medical specializat.
+Solicită o programare
+Sună la 021 9268
+Ce este imunohistochimia (IHC)?
+Imunohistochimia (IHC) este o tehnică avansată de diagnostic utilizată în anatomia patologică, care combină histologia cu imunologia pentru a identifica proteine specifice (antigene) în celulele unui țesut. Această analiză este esențială în diagnosticarea de precizie a cancerului, oferind medicului oncolog informații vitale despre tipul exact de tumoră, originea acesteia și agresivitatea ei, detalii pe care examenul histopatologic clasic nu le poate furniza întotdeauna.
+Pachetul „1 Set = maxim 5 teste” se referă la utilizarea unui panel de până la 5 anticorpi diferiți pentru a elucida un diagnostic dificil.
+De ce este importantă această analiză?
+Analiza permite diferențierea între tipuri de cancer care arată similar la microscop dar necesită tratamente complet diferite (de exemplu, carcinom vs. limfom). De asemenea, identifică markerii predictivi (cum ar fi receptorii hormonali în cancerul mamar) care indică dacă pacientul va răspunde la anumite terapii țintite.
+Cum se realizează analiza?
+Această analiză nu presupune o nouă recoltare de sânge sau o nouă intervenție chirurgicală asupra pacientului, ci se efectuează pe „blocul de parafină” (proba de țesut) recoltat la o biopsie sau operație anterioară. În laborator, secțiunile fine de țesut sunt tratate cu anticorpi specifici care își schimbă culoarea dacă întâlnesc proteina căutată, devenind vizibili la microscop.
+Valorile de referință imunohistochimie: ce indică rezultatele?
+Important: Rezultatele imunohistochimiei nu sunt numerice (ca la glicemie), ci descriptive și semi-cantitative. Interpretarea este complexă și este realizată exclusiv de medicul anatomo-patolog.
+Categorie (tip rezultat)
+Interpretare
+Negativ (-)
+Proteina/Markerul căutat nu este prezent în celulele tumorale.
+Pozitiv (+)
+Proteina/Markerul este prezent. Se poate cuantifica intensitatea (1+, 2+, 3+) sau procentul de celule (ex: Ki67 20%).
+Valori pozitive: ce înseamnă și care sunt cauzele?
+Un rezultat pozitiv indică faptul că celulele tumorale exprimă un anumit marker. Semnificația depinde de markerul testat.
+Exemple de interpretare a rezultatelor pozitive:
+Receptori hormonali (ER/PR) pozitivi:
+in
+cancerul mamar
+, indică un răspuns probabil la terapia hormonală.
+HER2 pozitiv:
+indică o formă de cancer mai agresivă, dar care răspunde la tratamente anti-HER2.
+Ki67 ridicat (ex: >20%):
+indică o rată mare de proliferare celulară (tumoră agresivă).
+Markeri de origine (ex: CK7, CK20, TTF1):
+ajută la stabilirea organului de plecare al unei metastaze (ex: confirmă că o metastază hepatică provine de fapt din plămân).
+Valori negative: ce înseamnă și care sunt cauzele?
+Absența markerilor este la fel de importantă pentru excluderea anumitor diagnostice.
+Exemple de interpretare a rezultatelor negative:
+P63 negativ:
+poate ajuta la diferențierea unui cancer invaziv de unul in situ sau benign.
+Markeri limfoizi negativi:
+exclud diagnosticul de limfom într-o tumoră cu celule mici.
+Scopul imunohistochimiei (IHC): pentru ce afecțiuni este recomandată?
+Principalul motiv pentru care medicul solicită această analiză este incertitudinea diagnosticului histopatologic standard sau necesitatea stabilirii tratamentului oncologic.
+Afecțiuni principale diagnosticate și monitorizate:
+Cancere mamare:
+stabilirea subtipului molecular (Luminal A, B, HER2 etc.).
+Limfoame:
+clasificarea exactă a
+tipului de limfom
+(sunt zeci de tipuri care se tratează diferit).
+Metastaze cu punct de plecare neprecizat:
+identificarea originii tumorii primare.
+Cancere pulmonare, gastrice, colorectale:
+pentru stabilirea eligibilității la imunoterapie sau terapii țintite.
+Ce măsoară de fapt imunohistochimia?
+Analiza măsoară prezența, distribuția și cantitatea unor proteine specifice (antigene) situate pe suprafața, în citoplasma sau în nucleul celulelor.
+Parametrii specifici măsurați (markeri uzuali din seturi):
+Cytokeratine (CK):
+pentru carcinoame.
+Vimentina:
+pentru sarcoame.
+CD-uri (CD3, CD20, CD45):
+pentru celule ale sistemului imunitar (limfoame).
+Markeri de proliferare:
+Ki-67 (arată cât de rapid se divide tumora).
+Receptori:
+estrogen, progesteron, androgen.
+Când este recomandată imunohistochimia?
+Este recomandată, de regulă, automat de către medicul patolog atunci când analiza standard (colorația Hematoxilină-Eozină) nu este suficientă pentru un diagnostic cert, sau la cererea medicului oncolog pentru a planifica tratamentul.
+Simptome asociate care pot indica necesitatea analizei:
+Analiza nu se corelează direct cu simptomele pacientului, ci cu caracteristicile țesutului analizat la microscop. Necesitatea ei apare când:
+Diagnosticul este incert:
+„tumoră malignă nediferențiată”.
+Este necesară stadializarea:
+pentru a vedea dacă există micro-metastaze în ganglionii santinelă.
+Cum te pregătești pentru imunohistochimie la Regina Maria?
+Înainte de analiză:
+Nu este necesar repaus alimentar:
+deoarece analiza se face pe țesutul deja recoltat, nu contează ce a mâncat pacientul.
+Obținerea probelor:
+dacă biopsia/operația a fost făcută în alt spital, pacientul trebuie să solicite de la acel spital blocul de parafină (cubul mic de ceară care conține țesutul) și, eventual, lamele histopatologice.
+Documente:
+este nevoie de rezultatul histopatologic inițial (buletinul de analiză) și biletul de trimitere/recomandarea medicului.
+În ziua analizei:
+Pacientul sau aparținătorul se prezintă la punctul de recepție probe (Anatomie Patologică) sau la recepția clinicii pentru a preda blocurile de parafină și documentele.
+Ce întrebări să adresezi medicului despre imunohistochimie?
+Iată câteva întrebări importante pe care le poți adresa medicului despre această analiză:
+Care este scopul specific pentru care este necesar acest set de teste?
+Acest rezultat va schimba tratamentul pe care urmează să îl fac?
+Cât durează prelucrarea (știind că este o analiză complexă)?
+Este suficient materialul din blocul de parafină sau este nevoie de o nouă biopsie?
+Acest test îmi spune dacă boala este ereditară? (De obicei nu, pentru asta există teste genetice separate).
+Cât de urgent trebuie să efectuez această analiză?
+Întrebări frecvente (FAQ) despre imunohistochimie
+Cât durează până primesc rezultatele pentru imunohistochimie?
+Fiind o procedură complexă care implică reacții chimice și interpretare microscopică minuțioasă, rezultatele sunt gata, de obicei, în 7-14 zile lucrătoare de la predarea blocului de parafină.
+Ce înseamnă dacă rezultatul pentru imunohistochimie este neconcludent?
+Uneori, țesutul din blocul de parafină este degradat sau insuficient. În acest caz, reacțiile chimice nu funcționează corect. Medicul poate recomanda repetarea biopsiei pentru a obține țesut proaspăt.
+Unde pot efectua imunohistochimia în cadrul rețelei Regina Maria?
+Probele (blocurile de parafină) se pot preda în orice punct de recoltare sau policlinică Regina Maria, urmând a fi trimise către Laboratorul Central de Anatomie Patologică. Lista locațiilor:
+https://www.reginamaria.ro/locatii
+Este imunohistochimia o analiză medicală decontată prin Casa de Asigurări de Sănătate (CAS)?
+Da, această analiză poate fi decontată prin CAS sau prin Programele Naționale de Oncologie, în baza biletului de trimitere de la medicul oncolog sau specialist, și a dosarului medical complet, în limita fondurilor disponibile. Pentru detalii:
+https://www.reginamaria.ro/cas
+Ce acte sunt necesare pentru a beneficia de decontare CAS la analizele Regina Maria?
+Pentru decontarea analizelor, este necesar să prezinți: biletul de trimitere în termenul de valabilitate, Cardul Național de Asigurări de Sănătate (sau adeverința de asigurat, după caz), actul de identitate (CI/BI) și rezultatul histopatologic anterior.
+Care este valabilitatea biletului de trimitere pentru analize medicale decontate?
+Valabilitatea biletului de trimitere eliberat de medicul de familie sau specialist este, în general, de 30 de zile calendaristice de la data emiterii. Este esențial să te programezi și să predai probele în acest interval.
+⚠️
+Disclaimer: Acest articol este cu titlu informativ și nu constituie o recomandare medicală. Informațiile din acest material nu înlocuiesc consultul medical sau recomandările specialistului.
+Cere o programare
+Nume
+Prenume
+Email
+Telefon
+Sunt de acord sa primesc e-mailuri despre noutati si oferte personalizate.
+Acord
+Prin completarea formularului de mai sus sunt de acord sa fiu contactat/a de catre Reteaua de sanatate REGINA MARIA in legatura cu serviciile medicale solicitate
+Acest site este protejat de reCAPTCHA si se aplica
+Politica de confidentialitate
+si
+Termeni si conditii
+.
+Suna in Contact Center

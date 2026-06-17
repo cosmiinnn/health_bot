@@ -1,0 +1,133 @@
+https://www.reginamaria.ro/utile/dictionar-de-analize/examen-fish-pentru-sindrom-hipereozinofilic-rearanjament-fip1l1-pdgfra
+
+Contactează-ne!
+Ai simptome care te supără? Solicită chiar acum un sfat medical specializat.
+Solicită o programare
+Sună la 021 9268
+Ce este examenul FISH pentru sindrom hipereozinofilic?
+Examenul FISH (Fluorescence In Situ Hybridization) pentru sindromul hipereozinofilic este o analiză avansată de citogenetică moleculară care detectează anomalii cromozomiale specifice, invizibile la cariotipul clasic. Această analiză este esențială în diagnosticarea formelor clonale de hipereozinofilie, vizând în principal detectarea genei de fuziune
+FIP1L1-PDGFRA
+(rezultată printr-o deleție pe cromozomul 4), oferind medicului informații vitale despre cauza proliferării eozinofilelor și opțiunile terapeutice.
+De ce este importantă această analiză?
+Este testul „cheie” pentru medicina personalizată în cazul pacienților cu eozinofile crescute inexplicabil. Identificarea acestei mutații specifice schimbă radical prognosticul, deoarece pacienții pozitivi răspund excelent la tratamentul cu inhibitori tirozin-kinazici, evitând astfel chimioterapia agresivă.
+Cum se realizează analiza?
+Proba se obține, de obicei, prin recoltare de sânge venos periferic (într-un vacutainer cu heparină) sau, în anumite cazuri, din aspirat de măduvă osoasă (punctie medulară). În laborator, se utilizează sonde fluorescente care se leagă specific de secvențele de ADN vizate, permițând vizualizarea fuziunii genice la microscopul cu fluorescență.
+Valorile de referință pentru examenul FISH sindrom hipereozinofilic: ce indică rezultatele?
+Important: Valorile de referință prezentate mai jos sunt orientative. Fiind un test genetic calitativ, rezultatul confirmă sau infirmă prezența anomaliei moleculare. Pentru interpretarea corectă a rezultatelor, consultă întotdeauna medicul hematolog Regina Maria.
+Categorie (tip rezultat)
+Interpretare
+Negativ (normal)
+Nu s-a detectat rearanjamentul
+FIP1L1-PDGFRA
+(sau deleția genei
+CHIC2
+).
+Pozitiv (anormal)
+S-a detectat prezența fuziunii
+FIP1L1-PDGFRA
+.
+Rezultat pozitiv (mutație prezentă): ce înseamnă?
+Un rezultat pozitiv confirmă diagnosticul de neoplasm mieloid/limfoid cu eozinofilie și rearanjament PDGFRA (adesea clasificat anterior ca leucemie eozinofilică cronică). Aceasta înseamnă că hipereozinofilia este o boală malignă clonală, cauzată de o „eroare” genetică dobândită care activează permanent o proteină de creștere.
+Implicații clinice:
+Sensibilitate la tratament:
+indică o probabilitate foarte mare de răspuns la tratamentul specific.
+Monitorizare:
+testul va fi repetat ulterior pentru a monitoriza răspunsul la tratament.
+Rezultat negativ (mutație absentă): ce înseamnă și care sunt cauzele?
+Un rezultat negativ înseamnă că această anomalie specifică nu este cauza hipereozinofiliei. Totuși, acest lucru nu exclude diagnosticul de sindrom hipereozinofilic (HES), ci doar varianta clonală legată de PDGFRA.
+Lista principalelor cauze alternative:
+Sindrom hipereozinofilic idiopatic:
+cauză necunoscută, prin excludere.
+Hipereozinofilie reactivă:
+răspuns la paraziți, alergii,
+boli autoimune
+sau alte tipuri de cancer.
+Alte mutații:
+pot exista alte rearanjamente (ex:
+PDGFRB, FGFR1
+) care necesită alte teste FISH specifice.
+Scopul examenului FISH pentru sindrom hipereozinofilic: pentru ce afecțiuni este recomandat?
+Principalul motiv pentru care medicul solicită această analiză este diferențierea între o formă de cancer de sânge (neoplasm mieloid) și o reacție inflamatorie a organismului, la pacienții cu număr mare de eozinofile.
+Afecțiuni principale diagnosticate și monitorizate:
+Leucemia cronică eozinofilică:
+confirmarea diagnosticului molecular.
+Mastocitoza sistemică:
+uneori asociată cu eozinofilie și această mutație.
+Sindromul hipereozinofilic (HES):
+clasificarea subtipului de boală pentru a decide tratamentul.
+Ce măsoară de fapt examenul FISH pentru sindrom hipereozinofilic?
+Analiza investighează integritatea regiunii cromozomiale 4q12. Deoarece fuziunea
+FIP1L1-PDGFRA
+este cauzată de o deleție interstițială mică (prea mică pentru a fi văzută la cariotipul standard), FISH măsoară prezența sau absența semnalelor fluorescente specifice genelor implicate.
+Parametrii specifici măsurați:
+Fuziunea genică:
+prezența fizică a apropierii anormale între gena
+FIP1L1
+și
+PDGFRA
+.
+Deleția CHIC2:
+adesea folosită ca marker surogat (absența semnalului pentru gena
+CHIC2
+indică prezența fuziunii).
+Când este recomandat examenul FISH pentru sindrom hipereozinofilic?
+Este recomandată atunci când un pacient prezintă o hipereozinofilie persistentă (>1500 eozinofile/µL) timp de peste 6 luni sau cu semne de afectare a organelor, după ce au fost excluse cauzele secundare (parazitoze, alergii, vasculite).
+Simptome asociate care pot indica necesitatea analizei:
+Eozinofilie severă pe hemoleucogramă:
+descoperită întâmplător sau investigată.
+Afectare cardiacă:
+fibroză endomiocardică (inimă rigidă),
+insuficiență cardiacă
+.
+Simptome cutanate:
+erupții pruriginoase, angioedem.
+Simptome respiratorii:
+tuse persistentă, infiltrate pulmonare.
+Cum te pregătești pentru examenul FISH la Regina Maria?
+Înainte de analiză:
+Fără pregătire specială:
+de regulă, nu este necesar repaus alimentar strict, dar verifică instrucțiunile specifice la programare.
+Discuția cu medicul:
+informează medicul despre orice tratament recent, deși acesta influențează rar rezultatul genetic (spre deosebire de hemoleucogramă).
+Documente:
+este util să ai la tine istoricul medical sau recomandarea hematologului care specifică necesitatea testării moleculare.
+În ziua analizei:
+Te prezinți la punctul de recoltare. Se recoltează sânge venos (similar cu o hemoleucogramă, dar în tuburi specifice de genetică). Procedura este rapidă.
+Ce întrebări să adresezi medicului despre examenul FISH pentru sindrom hipereozinofilic?
+Iată câteva întrebări importante pe care le poți adresa medicului despre această analiză:
+Care este scopul specific pentru care mi-ați recomandat această analiză?
+Dacă rezultatul este pozitiv, înseamnă că am leucemie?
+Acest test îmi va spune dacă pot lua Imatinib?
+Este o boală ereditară pe care o pot transmite copiilor? (De regulă, această mutație este somatică/dobândită, nu moștenită).
+Cât de urgent trebuie să efectuez această analiză?
+Întrebări frecvente (FAQ) despre examenul FISH pentru sindrom hipereozinofilic
+Cât durează până primesc rezultatele pentru examenul FISH?
+Fiind o analiză complexă de genetică, rezultatele sunt disponibile de obicei în 10-14 zile lucrătoare, în funcție de laboratorul de citogenetică.
+Ce înseamnă dacă rezultatul examenului FISH este neconcludent?
+Este o situație rară. Poate însemna că numărul de celule analizate a fost insuficient sau calitatea probei nu a permis hibridizarea. Medicul poate solicita repetarea recoltării, eventual din măduvă osoasă, pentru o acuratețe mai mare.
+Unde pot efectua examenul FISH pentru sindrom hipereozinofilic în cadrul rețelei Regina Maria?
+Recoltarea se poate efectua în punctele de recoltare și clinicile Regina Maria, proba fiind trimisă către laboratorul central de genetică. Verifică disponibilitatea la programare. Lista completă a locațiilor:
+https://www.reginamaria.ro/locatii
+Este examenul FISH decontat prin Casa de Asigurări de Sănătate (CAS)?
+Aceste teste genetice pot fi decontate în anumite condiții stricte, adesea prin Programele Naționale de Sănătate (Oncologie/Hematologie) și necesită un dosar medical aprobat sau trimitere de la medicul hematolog în contract cu CAS. Pentru detalii specifice și lista analizelor decontate, vizitează secțiunea dedicată CAS:
+https://www.reginamaria.ro/cas
+Ce acte sunt necesare pentru a beneficia de decontare CAS la analizele Regina Maria?
+Pentru decontarea analizelor, este necesar să prezinți: biletul de trimitere în termenul de valabilitate, Cardul Național de Asigurări de Sănătate (sau adeverința de asigurat, după caz) și actul de identitate (CI/BI), alături de documentele specifice programului național (dacă este cazul).
+Care este valabilitatea biletului de trimitere pentru analize medicale decontate?
+Valabilitatea biletului de trimitere eliberat de medicul de familie sau specialist este, în general, de 30 de zile calendaristice de la data emiterii. Este esențial să te programezi și să efectuezi analizele în acest interval.
+⚠️
+Disclaimer: Acest articol este cu titlu informativ și nu constituie o recomandare medicală. Informațiile din acest material nu înlocuiesc consultul medical sau recomandările specialistului.
+Cere o programare
+Nume
+Prenume
+Email
+Telefon
+Sunt de acord sa primesc e-mailuri despre noutati si oferte personalizate.
+Acord
+Prin completarea formularului de mai sus sunt de acord sa fiu contactat/a de catre Reteaua de sanatate REGINA MARIA in legatura cu serviciile medicale solicitate
+Acest site este protejat de reCAPTCHA si se aplica
+Politica de confidentialitate
+si
+Termeni si conditii
+.
+Suna in Contact Center

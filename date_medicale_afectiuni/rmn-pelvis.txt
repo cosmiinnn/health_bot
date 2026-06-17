@@ -1,0 +1,143 @@
+https://www.reginamaria.ro/utile/dictionar-de-afectiuni/rmn-pelvis
+
+Contactează-ne!
+Ai simptome care te supără? Solicită chiar acum un sfat medical specializat.
+Solicită o programare
+Sună la 021 9268
+Rezonanta magnetica nucleara (RMN) este o tehnologie avansata de investigatie non-invaziva care produce imagini anatomice detaliate, tridimensionale, utilizand un camp magnetic intens si unde de radiofrecventa care interactioneaza cu atomii de hidrogen din apa care formeaza tesuturile vii.
+Se bazeaza pe o tehnologie sofisticata cu ajutorul careia se pot vizualiza cu o deosebita acuratete diferite organe si tesuturi ale corpului uman. A fost descoperita in timpul celui de-al doilea razboi mondial cand, Edward Purcell, un fizician american, a fost desemnat sa se ocupe de dezvoltarea radarului la Massachusetts Institute of Technology - Laboratorul de radiatie. Studiul sau despre producerea si detectia undelor radio de intensitate mare si absorbtia acestora de catre materie a constituit fundamentul descoperirii, de catre Isidor Rabi, a rezonantei magnetice nucleare, pentru care a primit, in 1944, premiul Nobel pentru fizica.
+Tehnica aplicata in medicina cateva decenii mai tarziu nu presupune folosirea de radiatii sau iradiere nociva, pana in prezent neexistand dovezi ca rezonanta magnetica ar putea avea efecte nocive asupra organismului.
+Cum functioneaza aparatul de RMN sau imagistica prin rezonanta nucleara (IRM)?
+Principiul RMN
+Examinarea  prin  rezonanta  magnetica  (IRM)  se bazeaza pe  modificarile  atomilor  de  hidrogen  ai tesuturilor  (imagistica  protonilor)  intr-un  camp  magnetic  puternic,  atunci cand sunt supusi  unor  impulsuri  de radiofrecventa.
+In organismul uman, atomii de hidrogen se gasesc pretutindeni, pentru ca ei intra in alcatuirea apei care formeaza intre 45-75% din greutatea corporala. In momentul  in  care  asupra  atomilor  de  hidrogen actioneaza  un  camp  magnetic  puternic,  acestia  se  "aliniaza"  vectorial  in  directia  campului  magnetic. Daca asupra lor trimitem, suplimentar, impulsuri de  radiofrecventa, perpendicular pe directia lor de aliniere, protonii din atomii de hidrogen absorb energie si isi modifica din nou pozitia, dar revin ulterior la pozitia anterioara, emitand la randul lor alte unde de radiofrecventa de intensitate redusa care sunt captate si amplificate de scanner si apoi traduse in imagini de catre computer. Se masoara timpul  de  revenire  la  orientarea  initiala a  protonilor  ce  difera  de  la  un  tesut  la  altul,  oferind  medicilor in final, imaginea 2D si 3D a organelor si tesuturilor pe ecranul aparatului de RMN.
+Aparatura RMN
+Aparatul de RMN este unul de mari dimensiuni si are o forma cilindrica.
+Acesta creeaza un camp magnetic foarte puternic in jurul pacientului.
+Pacientul este plasat pe un pat mobil care va glisa in interiorul tubului in functie de regiunea examinata.
+Imagistica prin Rezonanta Magnetica (IRM) este extrem de precisa in diferentierea tipurilor de tesut si ofera posibilitatea unui diagnostic mult mai clar al afectarii tesuturilor moi (care intra in compozitia organelor, creierului, muschilor, articulatiilor) comparativ cu imaginile obtinute prin computer tomografie (CT) sau ecografie.
+Cand se recomanda RMN de pelvis?
+Rolul rezonantei magnetice nucleare in investigarea imagistica a pelvisului a crescut considerabil in ultima perioada. Avantajele majore ale IRM fata de CT sunt date de caracterizarea mult mai buna a leziunilor focale intraparenchimatoase si de lipsa iradierii (importanta in special pentru persoanele tinere, pentru femeile insarcinate si pentru persoanele ce necesita investigatii imagistice seriate – monitorizarea bolii, in special in patologia oncologica).
+O scanare RMN pelvina este un test solicitat in caz de:
+defecte congenitale
+leziuni sau traumatisme in zona pelviana
+durere in regiunea abdominala inferioara sau pelviana
+dificultati inexplicabile la urinare sau defecare
+cancer (sau cancer suspectat) in organele de reproducere, vezica urinara, rect sau tract urinar
+Pentru femei, medicul poate solicita un RMN pelvin pentru a investiga in continuare:
+infertilitatea
+sangerarea vaginala neregulata
+umflaturi sau mase tumorale in zona pelviana (cum ar fi fibromul uterin, etc)
+durere inexplicabila in abdomenul inferior sau in zona pelviana
+Pentru barbati, un RMN pelvin ar putea investiga conditii precum:
+un testicul necoborat
+umflaturi in scrot sau testicule, respectiv tumefieri, mase tumorale in acea zona
+Care sunt avantajele RMN in patologiile pelvine?
+Patologia ginecologica
+Imagistica prin rezonanta magnetica ofera informatii privind procesele complexe pelvine si prezinta o sensibilitate de 93% si o specificitate de 97% in detectia tumorilor maligne.
+RMN permite identificarea originii tumorilor pelvine, mult mai precis decat orice alta tehnica imagistica.
+In cazul endometrioamelor, fibroamelor uterine sau chistelor dermoide (cele mai frecvente patologii care mimeaza ecografic patologia maligna) IRM permite, prin detectia componentelor adipoase, sangvine sau fibroase intratumorale, un diagnostic cu un grad ridicat de precizie.
+RMN ajuta chirurgul in alegerea interventiilor conservative sau radicale si in selectia preoperatorie a pacientelor cu indicatie de laparoscopie vs laparotomie, in cazul leziunilor anexelor uterine la paciente tinere cu markeri tumorali usor crescuti si aspect borderline (suprapuneri ale caracterelor de benignitate – malignitate)
+RMN este utila in identificarea cazurilor in care se pot evita proceduri chirurgicale extensive.
+Aplicatiile investigatiei IRM in patologia ginecologica:
+stadializarea tumorilor maligne ginecologice;
+ghidarea tratamentului: chirurgical versus radioterapie in cancerul de col uterin; histerectomie radicala si limfadenectomie versus histerectomie simpla in cancerul endometrial;
+identificarea precoce a recidivelor tumorale.
+RMN pelvina cu instilare de gel
+Un tip aparte de RMN pentru endometrioze este IRM pelvina cu instilare de gel. Examinarea RMN (IRM) pelvis cu instilare de gel sau cu protocol de endometrioza este o investigatie imagistica, utila in stabilirea diagnosticului de certitudine de endometrioza, efectuata fie la recomandarea medicului ginecolog sau imagist, fie la cererea pacientei.
+“Comparativ cu examinarea clasica, prin IRM pelvis cu SDC, IRM cu instilare de gel intravaginal si intrarectal ofera un aport informational crescut, de pana la 90-100%, prin destinderea peretilor vaginului si rectului ca urmare a introducerii gelului steril. Aceasta tehnica, spre deosebire de IRM clasic, permite analiza cu acuratete a compartimentului posterior pelvin, locul de electie al endometriozei. De mentionat faptul ca examinarea realizeaza diagnosticarea, cartografierea si stadializarea cu acuratete a formelor de endometrioza de gradul 2, 3, 4, fara posibilitatea diagnosticarii formelor incipente (microscopice, micronodulare)”, explica dr. Denisa Tisea, medic in cadrul retelei medicale Regina Maria.
+Procedura este descrisa pe larg in acest
+articol
+.
+Patologie rectala
+IRM rectala este superioara ecografiei endorectale prin faptul ca permite vizualizarea atat a peretelui intestinal, cat si a structurilor anatomice pelvine de vecinatate.
+Avantajele IRM in patologia oncologica rectala:
+permite stadializarea tumorilor rectale, fiind modalitatea imagistica cu cel mai inalt constrast pentru tesuturile moi;
+are capacitatea de a evalua atat extinderea tumorii (relatiile topografice ale tumorii cu fascia mezorectala) cat si profunzimea invaziei in tesuturile invecinate;
+ofera informatii importante pentru planificarea strategiei terapeutice corecte;
+ajuta la identificarea pacientilor oncologici care prezinta risc inalt de rezectie incompleta, pentru care radiochimioterapia preoperativa este necesara.
+Patologia prostatei
+Dupa o anumita varsta, prostata poate prezenta, la barbati, modificari care confera un aspect heterogen al glandei (cauzat de hiperplazia benigna si/sau modificarile inflamatorii). Acesta este motivul pentru care examinarea ecografica esueaza, adesea, in depistarea precoce a proceselor maligne.
+RMN pelvina poate aduce informatii valoroase suplimentare ecografiei prin capacitatea de vizualizare a structurilor prostatice si a leziunilor de mici dimensiuni.
+Este metoda imagistica cu cea mai mare sensibilitate in evaluarea extensiei locale a tumorii.
+Permite localizarea leziunilor suspecte si ghidarea biopsiei in arii mai dificil de abordat pe cale intrarectala (cancere inferioare, cancere ventrale).
+Patologia testiculara
+IRM este utila in:
+depistarea si evaluarea leziunilor testiculare si scrotale, evaluarea tumorilor testiculare si a gradului de diseminare locala sau la distanta, cu impact in alegerea tratamentului oncologic adecvat pentru pacient.
+monitorizarea post tratament a tumorilor testiculare si detectarea precoce a recidivelor tumorale.
+Cum te pregatesti inainte de examinarea IRM?
+De obicei, nu este nevoie de o pregatire speciala. Ar fi totusi bine, totusi, sa nu consumi alimente si bauturi  cu aproximativ 2-3 ore inainte de examinare.
+Ce trebuie sa aduci cu tine in ziua examinarii?
+trimiterea de la medicul curant
+lista scrisa cu medicamentele pe care le iei in mod obisnuit
+dosarul cu examinarile precedente (radiografii, ecografii, computer tomografii sau rezonante magnetice)
+Inainte de prezentarea la investigatie, este necesara efectuarea unor analize de sange (uree, creatinina), pentru a evalua functia renala. Pot fi rezultate obtinute cu ocazia unor examinari anterioare, dar nu mai vechi de 30 de zile.
+Trebuie sa anunti medicul daca esti insarcinata si daca stii ca ai alergii.
+Daca este nevoie de sedare, ar trebui sa vii insotit.
+In cazul unor dispozitive sau implanturi este nevoie sa aduci confirmarea de la medicul tau curant privind compatibilitatea dispozitivelor cu investigatia RMN.
+Dispozitive medicale care pot interfera cu examinarea RMN/IRM
+Daca ai oricare dintre aceste dispozitive, trebuie sa le mentionezi personalului medical sau sa intrebi medicul curant daca acestea sunt compatibile cu investigatia.
+Stimulator cardiac (pacemakerul) - este o contraindicatie absoluta a investigatiei; campul magnetic de intensitate crescuta va afecta functionarea acestuia, cu riscuri severe asupra ritmului cardiac, inclusiv deces. Daca ai un astfel de dispozitiv, discuta cu medicul curant sau radiolog optiunile alternative.
+Schije sau fragmente metalice in ochi sau in orbita. Chiar daca acestea au fost extrase, exista riscul unor fragmente nedetectate, care se pot mobiliza in cursul procedurii si pot determina leziuni severe. O  radiografie de craniu efectuata in prealabil ar putea elimina aceasta posibilitate.
+Valvele cardiace mecanice. In unele cazuri pot fi compatibile cu aceasta investigatie, dar confirmarea trebuie sa vina de la medicul tau curant.
+Fire implantate, stimulatoare si bateriile aferente diferitelor sisteme medicale implantabile in corp sunt o contraindicatie absoluta a examinarii si pot produce leziuni grave sau chiar deces in timpul examinarii.
+Stenturi intravasculare - sunt de metal, de obicei compatibil cu rezonanta magnetica (in functie de model).
+Filtrele de vena cava tip umbrela –pot fi compatibile cu IRM-ul, dar trebuie verificat fiecare model in parte.
+Clipsurile anevrismale (dispozitive utilizate in neurochirurgie) - daca ai suferit vreodata o astfel de interventie, este necesar sa prezinti datele tehnice ale dispozitivelor implantate pentru a verifica compatibilitatea lor.
+Aparatele auditive trebuie scoase in timpul examinarii.
+Materiale de osteosinteza utilizate in ortopedie (placi, tije, suruburi) pot fi compatibile cu rezonanta magnetica, insa este necesar sa furnizezi datele tehnice ale acestora pentru verificare (de la medicul ortoped)
+Proteze articulare (sold, genunchi) - pot fi de obicei scanate in functie de caracteristicile tehnice, insa examinare regiunii respective este suboptimala si necesita o colaborare directa cu medicul ortoped, precum si consultarea compatibilitatii pentru fiecare model in parte.
+Implanturi - daca ai suferit operatii la nivelul ochilor sau urechilor este important sa anunti radiologul, pentru ca desi majoritatea sunt inofensive, unele implanturi pot sa nu fie compatibile.
+Catetere venoase centrale - sunt in general compatibile, dar totusi este nevoie de datele tehnice ale acestora, obtinute de la medicul curant.
+Plasele utilizate in operatiile de hernie - sunt compatibile cu examinarea, chiar daca sunt metalice.
+Dispozitive uterine implantabile - sunt de obicei compatibile cu examinare, dar pot crea artefacte locale.
+Plasturi cu substante medicamentoase (nitroglicerina, anticonceptionale, nicotina) trebuie scoase inaintea examinarii (contin un mic fir metalic ce poate cauza probleme in timpul examinarii).
+Daca ai tatuaje pentru care s-au utilizat coloranti care contineau metale, trebuie sa intrebi medicul imagist daca acestea pot afecta investigatia.
+Ce se intampla inainte de examinare?
+La inceputul investigatiei vei fi rugat sa raspunzi unor intrebari care tin de securitatea ta, cele mai importante fiind cele privitoare la existenta sau nu a unui stimulator cardiac (pacemaker), a valvelor cardiace sau a altor tipuri de instrumente medicale ce contin fier in interiorul corpului.
+Pentru obtinerea unor imagini cu acuratete ridicata, vei fi rugat sa indepartezi orice obiect care contine agrafe, nasturi, fermoare sau curele cu catarama. In dulapul care se va incuia iti poti depozita bijuteriile, portmoneul, ceasul, cheile, cartile de credit cu banda magnetica, precum si telefonul mobil.
+Vei primi un halat special care iti va asigura confortul si protectia in timpul examinarii.
+Cum se desfasoara examinarea?
+Vei intra in sala de examinare si vei fi invitat sa te asezi pe masa mobila de examinare, care se deplaseaza in interiorul si in afara unui tunel care reprezinta magnetul ce va realiza investigatia.
+Pozitia cea mai frecventa este culcat pe spate, exceptand unele situatii particulare in care vei fi rugat sa adopti o alta pozitie, specifica patologiei tale.
+Regiunea examinata este pozitionata la mijlocul magnetului, de aceea este posibil, in anumite situatii, sa fie nevoie sa intri cu capul in interiorul tubului, insa nu este niciun pericol, zona examinata este pelvisul. Respira calm si gandeste-te la ceva placut pentru tine.
+Desi vei sta singur in camera de examinare, nu trebuie sa te temi, deoarece vei fi permanent in contact vizual si auditiv cu personalul medical, prin intermediul unei camere de supraveghere si a unui sistem de tip interfon.
+Vei putea sa comunici permanent cu echipa medicala, dar ai la dispozitie, in plus, o sonerie pe care o vei tine in mana. Examenul poate fi intrerupt in orice moment daca este cazul. In unele situatii este nevoie de sedare, astfel ca vei primi o medicatie care sa te ajute sa inlaturi anxietatea si miscarile involuntare care pot afecta acuratetea imaginilor.
+Ce trebuie sa faci in timpul examinarii?
+Examinarea dureaza intre 20 si 60 de minute si consta in serii de secvente a caror durata variaza intre 1 si 6 minute, cu mici pauze intercalate. Este o procedura lipsita de durere si destul de confortabila. Cel mai important lucru in aceasta examinare este ca trebuie sa ramai perfect nemiscat, pentru ca orice miscare in timpul examinarii perturba calitatea imaginii, care poate deveni irelevanta si neinterpretabila.
+In timpul examinarii se aud zgomotele ritmice produse de aparat in timpul functionarii. Pentru a diminua disconfortul auditiv, primesti casti antifonice si poti asculta o muzica relaxanta pe parcursul intregii proceduri.
+Cand este necesara substanta de contrast?
+In multe cazuri examinarea IRM se poate realiza fara substanta de contrast.
+In functie de patologia ta, in anumite situatii, medicul radiolog poate solicita injectarea unei substante de contrast, intravenos, la nivelul plicii cotului, pentru a vizualiza mai in detaliu anumite structuri. Medicul decide acest pas dupa vizualizarea imaginilor preliminare, efectuate fara contrast.
+Substanta de contrast cel mai des utilizata este pe baza de Gadoliniu, de obicei fiind foarte bine tolerata. Sunt posibile reactii alergice banale precum urticaria, dar reactiile alergice grave sunt cu totul exceptionale. Echipa medicala este complet pregatita si instruita sa rezolve orice tip de eveniment advers.
+Ce se intampla dupa investigatie?
+Daca procedura se efectueaza cu administrare de substanta de contrast trebuie sa mai ramai in clinica aproximativ 20 de minute dupa finalizarea investigatiei, pentru monitorizare (urmarire medicala).
+Daca procedura se efectueaza cu sedare, vei mai ramane in clinica pentru aproximativ 2-3 ore dupa finalizarea investigatiei, pentru monitorizare (urmarire medicala).
+Dupa o examinare RMN, daca nu ai fost sedat, iti poti relua stilul de viata si activitatile cotidiene in mod obisnuit. Daca s-a folosit substanta de contrast, este recomandat sa cresti consumul de apa, imediat dupa investigatie, pentru a accelera eliminarea substantei de contrast din organism
+Daca ai avut nevoie de sedare pentru examinare, este recomandat sa vii insotit, deoarece nu vei putea sa conduci vehicule sau sa iti reiei imediat activitatea profesionala obisnuita.
+Cand poti intra in posesia rezultatului examinarii efectuate?
+Dupa finalizarea investigatiei, se pregatesc imaginile si se transfera pe un CD pe care il primesti inainte sa pleci acasa. Data eliberarii rezultatului variaza in functie de complexitatea cazului. Informatiile inregistrate in timpul procedurii vor fi analizate si prelucrate de un medic de specialitate Imagistica si
+Radiologie Medicala pentru elaborarea raportului medical.
+Poti primi rezultatele pe email, daca ai un cont si optezi pentru aceasta varianta sau le poti ridica de la receptie la data comunicata.
+Contraindicatii RMN
+Exista cateva situatii in care examinarea RMN este contraindicata. Acestea sunt:
+Prezenta stimulatorului cardiac (pace maker)
+Proteze valvulare cardiace (metalice)
+Stimulator neuronal implantat
+Clipsuri/stenturi/spirale intravasculare metalice cu componenta feroasa la nivel intracranian
+Fragmente metalice (schije, aschii) prezente in corp
+Orice fel de implant metalic in corpul tau, materiale chirurgicale sau nu, tatuaje sau sterilet (orice dispozitiv contraceptiv intrauterin) trebuie raportate medicului radiolog pentru a decide posibilitatea sau nu a efectuarii investigatiei.
+Text: Dr. Cornelia Paraschiv, Senior Medical Editor
+Cere o programare
+Nume
+Prenume
+Email
+Telefon
+Sunt de acord sa primesc e-mailuri despre noutati si oferte personalizate.
+Acord
+Prin completarea formularului de mai sus sunt de acord sa fiu contactat/a de catre Reteaua de sanatate REGINA MARIA in legatura cu serviciile medicale solicitate
+Acest site este protejat de reCAPTCHA si se aplica
+Politica de confidentialitate
+si
+Termeni si conditii
+.

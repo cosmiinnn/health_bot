@@ -1,0 +1,55 @@
+https://www.reginamaria.ro/utile/dictionar-de-analize/testare-imunologica-anticorpi-anti-2019-ncov-igmigg
+
+Contactează-ne!
+Ai simptome care te supără? Solicită chiar acum un sfat medical specializat.
+Solicită o programare
+Sună la 021 9268
+Descriere
+Anticorpii pot sa fie produsi de organismul uman dupa expunerea la noul coronavirus. IgG si IgM, cunoscuti si sub denumirea de imunoglobuline, sunt anticorpii produsi dupa expunerea la antigenul viral, IgM fiind primul tip de anticorp care apare ca raspuns la expunerea la antigenele coronavirusului, iar IgG apare la mai mult timp de la expunere, fiind implicat in raspunsul imun secundar.
+Atunci cand suntem amenintati de un agent infectios (fie ca este vorba de virusuri, bacterii sau de fungi), primul raspuns al organismului nostru este dat de niste celule denumite macrofage care au capacitatea de a ingloba microbul si de a-l procesa, astfel incat acesta sa fie recunoscut drept “intrus”. Datorita acestei procesari, sunt eliberate fragmente specifice ale atacatorului, antigene. Un numit tip de globule albe din sange, limfocite B, vor produce anticorpi care sa “lupte cu intrusul”, anticorpii fiind produsi astfel incat sa se potriveasca antigenului atacator.
+Anticorpii
+sunt proteine produse de sistemul nostru imun pentru a ne proteja de infectii. Anticorpii se ataseaza de agentul patogen (de antigen) si fie blocheaza capacitatea acestuia de a infecta alte celule, fie il indica drept agent strain altor celule imune, pentru a-l neutraliza sau distruge si pentru a-l indeparta din corp.
+O caracteristica interesanta a anticorpilor este aceea ca ei sunt specifici, sunt sintetizati de sistemul imun astfel incat sa se potriveasca in mod specific acelui agent infectios particular care a patruns in organism. Anticorpii au in structura lor o regiune creata special pentru a se potrivi fiecarui antigen atacator. Ca si cum si-ar dezvolta anticorpul astfel incat acesta sa aiba cheia potrivita pentru a deschide o usa a virusului, ca sa-l poata invinge sau demasca.
+Sunt cinci clase diferite de anticorpi (sau imunoglobuline): IgA, IgD, IgE,igG si IgM (prescurtarea Ig provine de la denumirea de imunoglobuline) care difera intre ele ca structura, activitate si locul din organism in care sunt prezente. Daca IgA are rol in apararea mucoaselor, IgE in apararea impotriva parazitilor, IgM si IgG sunt anticorpii care pot fi identificati in sange, avand rol in apararea impotriva infectiilor.
+Anticorpii IgM sunt primii anticorpi care apar in cazul infectiilor, de aceea prezenta lor in sange indica o infectie acuta, cantitatea de anticorpi IgM scazand dupa etapa de infectie acuta, iar anticorpii IgG sunt anticorpii prezenti mai ales in sange si nivelul lor creste mai ales dupa o infectie.
+IgM si IgG sunt produsi de organism si in cazul infectiei cu virusul SARS-CoV-2, fiind specifici pentru acest tip de virus.
+Nivelul IgM si IgG se masoara in laborator cu ajutorul metodelor imunologice.
+Indicatii
+Cercetarile care s-au facut pentru a se studia raspunsul imun in infectia cu SARS, au indicat ca anticorpii IgM pot fi detectati in sangele pacientului dupa 3 pana la 6 zile si IgG pot fi detectati dupa aproximativ 8 zile de la infectare.
+Deoarece COVID-19 apartine aceleiasi mari familii de virusuri ca si cei care provoaca infectiile MERS si SARS, se presupune ca procesul de generare de anticorpi este similar.
+Cercetarile privind raspunsul imun umoral (cel in care sunt implicati anticorpii) la infectia SARS-CoV-2 sunt inca in etapa de inceput, sunt publicate putine rezultate stiintifice, cele care sunt publicate includ un numar prea mic de pacienti pentru a se putea constitui in dovezi clare si concrete la acest moment.
+Un studiu efectuat pe 208 probe de sange de la 82 cazuri confirmate si 58 de cazuri suspecte (suspectii au avut rezultat negativ la testare qPCR, dar avusesera simptomatologie tipica), a evidentiat prezenta anticorpilor tip IgM la 5 zile de la debutul simptomelor (cu o variatie de 3-6 zile) si a anticorpilor IgG la 14 zile dupa debutul simptomelor (cu o variatie de 10-18 zile).
+Un alt studiu care a inclus 222 de pacienti a evidentiat ca cel mai devreme IgG a fost detectat in ziua a 4a a bolii si cel mai inalt nivel a fost atins in a patra saptamana de boala. Un nivel mai inalt al IgG pare ca se asociaza cu un grad mai mare de severitate a bolii.
+Un studiu care a inclus 173 de pacienti a evidentiat ca la jumatate dintre pacienti IgM a putut fi detectat pana in cea de a 12 zi de la debut si IgG pana in ziua a 14 a. In a 15 a zi de la infectie IgM a fost prezent la mai mult de 90% dintre pacienti, iar IgG la aproximativ 80% dintre pacienti.
+Cat dureaza imunitatea pe care o ofera infectia cu noul coronavirus – este o intrebare la care inca nu se cunoaste raspunsul exact. Pentru a avea acest raspuns, este nevoie sa se efectueze studii privind raspunsul imun la nivel populational, de exemplu sa se evidentieze daca persoanele care au fost infectate pot sa faca din nou infectia in conditiile in care sunt din nou expuse, iar daca pot sa faca din nou boala, sa se observe la cat timp de la primul episod a aparut a doua infectare; de asemenea, in conditiile in care ar fi posibil sa apara un nou episod de infectie, sa se observe daca manifestarile sunt asemanatoare, sau evolutia si simptomatologia sunt mai usoare.
+Practic, la acest moment, nu se cunoaste inca daca acesti anticorpi specifici anticoronavirus SARS-CoV-2 pot sa protejeze persoana de o noua infectie si care ar fi titrul (concentratia) de anticorpi necesari pentru a se considera ca persoana ar fi protejata.
+Interpretari
+Cunoasterea modului in care sistemul nostru imun raspunde la expunerea la noul coronavirus ajuta la intelegerea modului in care poate fi detectata, tratata sau prevenita infectia.
+Detectarea anticorpilor IgG si IgM impotriva SARS-CoV-2 poate fi una dintre modalitatile utilizate pentru detectarea infectiei COVID-19. In plus, detectarea anticorpilor IgM tinde sa indice expunerea recenta la SARS-CoV-2, in timp ce detectarea anticorpilor COVID-19 IgG indica expunerea la virus cu ceva timp in urma. Detectarea rapida a anticorpilor IgM si IgG ar putea sa aduca un plus de valoare diagnosticului si tratamentului bolii COVID-19.
+Consultant stiintific: dr.
+Andreea Cristina Alexandru
+medic primar medicina de laborator, medic-sef Laborator Central Bucuresti si director medical Divizia Laboratoare Clinice REGINA MARIA
+Surse:
+Environmental Microbiology (Second Edition), Academic Press, 2009, Chapter 12 - Immunological Methods, Pages 225-241. Scot E.Dowd, Marilyn J. Halonen, Raina M.Maier, https://doi.org/10.1016/B978-0-12-370519-8.00012-2.
+Production of specific antibodies against SARS‐coronavirus nucleocapsid protein without cross reactivity with human coronaviruses 229E and OC43. Lee HK, Lee BH, Seok SH, et al. J Vet Sci. 2010;11(2):165‐167.
+Profiling Early Humoral Response to Diagnose Novel Coronavirus Disease (COVID-19), Clinical Infectious Diseases, Li Guo, et all, https://doi.org/10.1093/cid/ciaa310
+Immune phenotyping based on neutrophil-to-lymphocyte ratio and IgG predicts disease severity and outcome for patients with COVID-19. Bicheng Zhang, Xiaoyang Zhou, Chengliang Zhu, Fan Feng, Yanru Qiu, Jia Feng, Qingzhu Jia, Qibin Song, Bo Zhu, Jun Wang Sr. medRxiv 2020.03.12.20035048; doi: https://doi.org/10.1101/2020.03.12.20035048
+FAQ - Intrebari frecvente despre Testare imunologica anticorpi ANTI-2019-nCOV IgM/IgG
+Este analiza medicală Testare imunologica anticorpi ANTI-2019-nCOV IgM/IgG decontată prin Casa de Asigurări de Sănătate (CAS)?
+Nu, analiza medicală Testare imunologica anticorpi ANTI-2019-nCOV IgM/IgG nu face parte, în prezent, din lista serviciilor decontate de CAS la Regina Maria. Puteți efectua această analiză prin plată integrală sau pe baza unui abonament medical. Pentru a consulta serviciile care beneficiază de decontare, vă invităm să vizitați
+pagina noastră CAS
+.
+Cere o programare
+Nume
+Prenume
+Email
+Telefon
+Sunt de acord sa primesc e-mailuri despre noutati si oferte personalizate.
+Acord
+Prin completarea formularului de mai sus sunt de acord sa fiu contactat/a de catre Reteaua de sanatate REGINA MARIA in legatura cu serviciile medicale solicitate
+Acest site este protejat de reCAPTCHA si se aplica
+Politica de confidentialitate
+si
+Termeni si conditii
+.
+Suna in Contact Center

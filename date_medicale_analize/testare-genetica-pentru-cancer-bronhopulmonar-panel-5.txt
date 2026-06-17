@@ -1,0 +1,107 @@
+https://www.reginamaria.ro/utile/dictionar-de-analize/testare-genetica-pentru-cancer-bronhopulmonar-panel-5
+
+Contactează-ne!
+Ai simptome care te supără? Solicită chiar acum un sfat medical specializat.
+Solicită o programare
+Sună la 021 9268
+Ce este testarea genetică pentru cancer bronhopulmonar panel 5?
+Testarea genetică pentru
+cancer bronhopulmonar
+(panel 5 gene) este o analiză de biologie moleculară avansată care examinează materialul genetic din celulele tumorale pentru a identifica mutații specifice. Această analiză este esențială în diagnosticarea și tratamentul personalizat al cancerului pulmonar, în special al adenocarcinomului (cancer pulmonar fără celule mici - NSCLC), oferind medicului oncolog informații vitale despre „driverele” genetice care alimentează creșterea tumorii. Panelul include, de regulă, analiza genelor EGFR, ALK, ROS1, BRAF și KRAS.
+De ce este importantă această analiză?
+Identificarea mutațiilor genetice permite utilizarea „terapiilor țintite” (medicină de precizie). Aceste tratamente atacă specific celulele canceroase care prezintă mutația, protejând celulele sănătoase și oferind o rată de supraviețuire mai mare și efecte secundare reduse comparativ cu chimioterapia clasică.
+Cum se realizează analiza?
+Spre deosebire de analizele uzuale de sânge, această testare se realizează pe țesut tumoral. Proba provine dintr-o biopsie pulmonară sau dintr-o piesă chirurgicală recoltată anterior, conservată într-un bloc de parafină. În laborator, se extrage ADN-ul/ARN-ul din acest țesut și se analizează secvențele genice.
+Valorile de referință pentru testarea genetică panel 5: ce indică rezultatele?
+Important: Valorile de referință prezentate mai jos sunt orientative și pot varia în funcție de laboratorul sau clinica unde se efectuează analiza. Pentru interpretarea corectă a rezultatelor, consultă întotdeauna medicul specialist Regina Maria.
+Deoarece este un test genetic calitativ, rezultatele nu sunt exprimate în cifre, ci prin prezența sau absența mutației.
+Categorie (tip de rezultat)
+Interpretare
+Negativ (Wild Type)
+Nu s-au identificat mutații în genele testate.
+Pozitiv (Mutație Detectată)
+S-a identificat o mutație patogenă într-una dintre gene (Ex: EGFR, ALK etc.).
+Rezultat pozitiv: ce înseamnă și care sunt cauzele?
+Un rezultat pozitiv înseamnă că tumora prezintă o alterare genetică specifică ce „conduce” cancerul. Aceasta nu este o valoare „crescută” în sens numeric, ci o confirmare a prezenței bolii la nivel molecular. Cauzele sunt mutațiile somatice (dobândite pe parcursul vieții, adesea din cauza fumatului sau a expunerii la poluanți, dar și spontan).
+Implicații clinice ale rezultatului pozitiv:
+Mutație EGFR:
+pacientul poate beneficia de inhibitori tirozin-kinazici (TKI) anti-EGFR.
+Rearanjament ALK sau ROS1:
+indică eligibilitatea pentru inhibitori ALK/ROS1.
+Mutație BRAF V600E
+:
+permite tratamentul cu terapii combinate anti-BRAF/MEK.
+Mutație KRAS:
+poate indica un prognostic mai rezervat sau eligibilitatea pentru noi terapii specifice (ex: KRAS G12C).
+Rezultat negativ: ce înseamnă și care sunt cauzele?
+Un rezultat negativ înseamnă că în tumoră nu au fost găsite mutațiile căutate prin acest panel specific.
+Implicații clinice:
+Cancerul nu este cauzat de aceste gene specifice.
+Medicul va orienta tratamentul către alte opțiuni, cum ar fi imunoterapia (în funcție de testarea PD-L1) sau chimioterapia standard.
+Poate fi necesară o testare mai extinsă (NGS - Next Generation Sequencing) pentru a căuta alte gene mai rare.
+Scopul testării genetice panel 5: pentru ce afecțiuni este recomandată?
+Principalul motiv pentru care medicul solicită această analiză este stabilirea tratamentului oncologic corect pentru pacienții diagnosticați cu cancer pulmonar avansat sau metastatic.
+Afecțiuni principale diagnosticate și monitorizate:
+Cancer bronhopulmonar fără celule mici (NSCLC):
+în special subtipul adenocarcinom. Analiza dictează linia de tratament.
+Cancere pulmonare scuamoase (rar):
+uneori testate dacă pacientul este nefumător sau tânăr.
+Monitorizarea rezistenței:
+la pacienții care nu mai răspund la tratament, testarea poate identifica noi mutații de rezistență.
+Ce măsoară de fapt testarea genetică panel 5?
+Analiza investighează structura moleculară a 5 gene cheie implicate în proliferarea celulară necontrolată.
+Parametrii specifici măsurați:
+EGFR (Receptorul factorului de creștere epidermal):
+mutații care țin receptorul activat permanent.
+ALK (Kinaza limfomului anaplastic):
+translocații care fuzionează ALK cu o altă genă, stimulând creșterea tumorală.
+ROS1:
+rearanjamente genice similare cu ALK.
+BRAF:
+mutații punctiforme (cel mai des V600E).
+KRAS:
+o genă frecvent mutată în cancerele pulmonare, adesea la fumători.
+Când este recomandată testarea genetică panel 5?
+Este recomandată imediat după confirmarea diagnosticului patologic de cancer pulmonar (NSCLC), stadiul avansat, sau la recidiva bolii.
+Simptome asociate care pot indica necesitatea analizei:
+Deși analiza se face după diagnostic, simptomele care au dus la descoperirea cancerului includ:
+Tuse cronică sau schimbarea caracterului tusei:
+persistentă și care nu răspunde la tratamente uzuale.
+Hemoptizie:
+tuse cu sânge sau spută cu striuri de sânge.
+Dispnee și durere toracică:
+respirație dificilă și durere persistentă în piept sau umăr.
+Cum te pregătești pentru testarea genetică panel 5 la Regina Maria?
+Înainte de analiză:
+Disponibilitatea țesutului:
+această analiză nu necesită pregătire alimentară (nu este sânge). Necesită blocul de parafină (proba de biopsie) care conține țesutul tumoral. Dacă biopsia a fost făcută în alt spital, pacientul trebuie să solicite blocul de parafină și lama de la departamentul de anatomie patologică al acelui spital.
+Documente medicale:
+este necesar biletul de ieșire din spital sau rezultatul histopatologic care confirmă diagnosticul de cancer pulmonar.
+În ziua analizei:
+Te prezinți la laboratorul de anatomie patologică sau la punctul de recoltare desemnat pentru a predarea blocului de parafină și a documentelor medicale.
+Ce întrebări să adresezi medicului despre testarea genetică panel 5?
+Iată câteva întrebări importante pe care le poți adresa medicului despre această analiză:
+Care este scopul specific pentru care mi-ați recomandat această analiză?
+Acest test va schimba tratamentul pe care urmează să îl primesc?
+Cât durează până primesc rezultatele?
+Este suficient țesutul din biopsia veche sau este nevoie de o nouă recoltare?
+Rezultatele pozitive înseamnă că boala este ereditară?
+Cât de urgent trebuie să efectuez această analiză?
+Întrebări frecvente (FAQ) despre testarea genetică panel 5
+Cât durează până primesc rezultatele pentru testarea genetică panel 5?
+Fiind o analiză complexă de biologie moleculară, rezultatele sunt gata, de obicei, în 10-15 zile lucrătoare de la primirea probei în laborator.
+Ce înseamnă dacă rezultatul testării genetice panel 5 este neconcludent?
+Uneori, cantitatea de țesut tumoral din blocul de parafină este insuficientă sau ADN-ul este degradat. În acest caz, medicul poate recomanda o nouă biopsie sau o "biopsie lichidă" (testare din sânge).
+Unde pot efectua testarea genetică panel 5 în cadrul rețelei Regina Maria?
+Proba (blocul de parafină) se poate preda în orice punct de recoltare sau policlinică Regina Maria, urmând a fi trimisă către laboratorul central de genetică/biologie moleculară. Consultă lista locațiilor:
+https://www.reginamaria.ro/locatii
+Este testarea genetică panel 5 decontată prin Casa de Asigurări de Sănătate (CAS)?
+Da, această analiză poate fi decontată prin CAS sau prin Programele Naționale de Oncologie, în baza biletului de trimitere de la medicul oncolog și a dosarului medical, în limita fondurilor disponibile. Regulile de decontare pentru testele genetice sunt stricte. Pentru a afla lista completă a analizelor decontate și detaliile de programare, vizitează secțiunea dedicată CAS:
+https://www.reginamaria.ro/cas
+Ce acte sunt necesare pentru a beneficia de decontare CAS la analizele Regina Maria?
+Pentru decontarea analizelor, este necesar să prezinți: biletul de trimitere în termenul de valabilitate, Cardul Național de Asigurări de Sănătate (sau adeverința de asigurat, după caz) și actul de identitate (CI/BI).
+Care este valabilitatea biletului de trimitere pentru analize medicale decontate?
+Valabilitatea biletului de trimitere eliberat de medicul de familie sau specialist este, în general, de 30 de zile calendaristice de la data emiterii. Este esențial să te programezi și să efectuezi analizele în acest interval.
+⚠️
+Disclaimer: Acest articol este cu titlu informativ și nu constituie o recomandare medicală. Informațiile din acest material nu înlocuiesc consultul medical sau recomandările specialistului.
+Suna in Contact Center

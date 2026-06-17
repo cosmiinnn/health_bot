@@ -1,0 +1,74 @@
+https://www.reginamaria.ro/utile/dictionar-de-analize/braf-mutatia-v600e
+
+Contactează-ne!
+Ai simptome care te supără? Solicită chiar acum un sfat medical specializat.
+Solicită o programare
+Sună la 021 9268
+Descriere
+Mutatia V600E reprezinta o modificare genetica aparuta in gena BRAF, care se afla pe bratul lung al cromozomului 7. Aceasta gena codifica o enzima de tip serin-treonin kinaza, cunoscuta sub numele de B-Raf, implicata in reglarea unui lant complex de semnale celulare, cunoscut ca si calea Ras-Raf-MEK-ERK (MAPK). Aceasta cascada de semnalizare are un rol esential in controlul cresterii, al diviziunii si al diferentierii celulelor.
+La om exista trei proteine din familia RAF: ARAF, BRAF si CRAF. Insa, BRAF are cea mai ridicata activitate enzimatica in conditii normale si este cel mai eficient stimulent al caii MAPK. Proteina BRAF este codificata de gena BRAF, care este alcatuita din 18 segmente codificatoare (exoni). In cadrul acestei gene, cea mai frecventa mutatie activatoare apare in exonul 15, unde o singura modificare la nivelul ADN-ului (o schimbare de baza: de la timina la adenina) duce la inlocuirea unui aminoacid. Astfel, valina este inlocuita de acid glutamic in pozitia 600, modificare cunoscuta sub denumirea V600E.
+Mutatia V600E duce la o crestere masiva a activitatii enzimei BRAF, ceea ce stimuleaza in mod excesiv semnalele de proliferare celulara. In acest mod, favorizeaza dezvoltarea necontrolata a celulelor, care reprezinta mecanismul cheie in aparitia cancerului. Din peste 30 de mutatii identificate in aceasta gena, V600E este cea mai frecventa si reprezinta aproximativ 90% din totalul mutatiilor BRAF observate in practica medicala.
+Aceasta anomalie genetica este intalnita cu frecventa variabila in mai multe tipuri de cancer. Apare cel mai des in:
+melanomul malign;
+cancerul tiroidian papilar.
+Mutatia este prezenta si in forme de:
+cancer colorectal;
+cancer ovarian;
+cancer pulmonar;
+cancer cerebral;
+cancer hematologic.
+Detectarea mutatiei V600E este importanta pentru stabilirea diagnosticului molecular. In functie de rezultatul obtinut, se poate alege un tratament tintit, adaptat profilului genetic al tumorii.
+Indicatii
+Testarea mutatiei BRAF V600E se recomanda pacientilor diagnosticati cu anumite tipuri de cancer, in special in stadii avansate sau metastatice. Cea mai frecventa indicatie este in cazul melanomului malign, unde prezenta mutatiei poate ghida administrarea de inhibitori BRAF, medicamente care actioneaza direct asupra proteinei mutate.
+Aceasta analiza este indicata si in:
+cancerul tiroidian papilar refractar la iod radioactiv;
+cancerul colorectal metastatic;
+gliomul;
+cancerul pulmonar non-microcelular;
+leucemia limfoblastica acuta;
+limfomul cu celule cu par.
+Aceasta analiza poate fi recomandata si in alte situatii, precum:
+istoric familial de cancere asociate cu aceasta mutatie;
+cand se suspecteaza un profil molecular specific;
+estimarea prognosticului bolii.
+Pregatirea pentru analiza
+Pentru testarea mutatiei V600E nu este necesara o pregatire speciala. Analiza se efectueaza dintr-o proba de tesut tumoral, obtinuta anterior prin biopsie sau in urma unei interventii chirurgicale.
+Mod de recoltare
+Biopsia presupune recoltarea unei mici portiuni din tumora, fie printr-o procedura minim invaziva (cu ajutorul unui ac special), fie in timpul unei interventii chirurgicale. Tipul de biopsie este stabilit de medic in functie de localizarea tumorii si starea ta generala.
+Proba recoltata este fixata in formol si inclusa in parafina, formand ceea ce se numeste un bloc histologic. Din acest bloc se realizeaza ulterior sectiuni care sunt analizate in laborator prin tehnici de biologie moleculara, pentru a identifica eventualele mutatii din gena BRAF.
+Interpretare
+Rezultatele pentru analiza mutatiei BRAF V600E sunt disponibile in aproximativ 7 -14 zile lucratoare. Buletinul de analize specific acestei investigatii indica daca mutatia specifica este prezenta sau absenta in proba tumorala analizata.
+Rezultat pozitiv
+Rezultatul pozitiv evidentiaza prezenta mutatiei V600E. Adica, gena BRAF a suferit o modificare care poate contribui la cresterea necontrolata a celulelor tumorale. In aceasta situatie, tratamentele tintite cu inhibitori BRAF pot fi prescrise. Acestea actioneaza direct asupra proteinei mutate si pot imbunatati semnificativ raspunsul la tratament.
+Rezultat negativ
+Un rezultat negativ inseamna ca mutatia V600E nu a fost identificata in proba analizata. Acest rezultat sugereaza ca alte mecanisme genetice sunt responsabile pentru dezvoltarea tumorii. Astfel, tratamentul tintit impotriva BRAF nu este indicat.
+FAQ - Intrebari frecvente despre BRAF - mutatia V600E
+Este analiza medicală BRAF - mutatia V600E decontată prin Casa de Asigurări de Sănătate (CAS)?
+Nu, analiza medicală BRAF - mutatia V600E nu face parte, în prezent, din lista serviciilor decontate de CAS la Regina Maria. Puteți efectua această analiză prin plată integrală sau pe baza unui abonament medical. Pentru a consulta serviciile care beneficiază de decontare, vă invităm să vizitați
+pagina noastră CAS
+.
+De ce este important sa testez aceasta mutatie?
+Identificarea mutatiei BRAF V600E ajuta medicul sa aleaga tratamentul potrivit. Exista terapii tintite care actioneaza direct asupra acestei mutatii, oferind rezultate mai bune decat chimioterapia clasica in anumite cazuri. Testarea este esentiala pentru a personaliza tratamentul si a imbunatati sansele de raspuns.
+Ce inseamna daca am mutatia BRAF?
+Mutatia BRAF apare intr-o gena care controleaza cresterea celulelor. Cand aceasta gena se modifica, transmite semnale gresite si celulele incep sa se inmulteasca necontrolat. Aceasta actiune poate duce la aparitia unei tumori. Deci, prezenta mutatiei nu inseamna automat cancer, dar indica un risc crescut si poate influenta modul in care evolueaza boala.
+Mutatia BRAF face cancerul mai agresiv?
+Da, in multe cazuri, mutatia BRAF este asociata cu forme mai agresive de cancer. Studiile arata ca tumorile cu aceasta mutatie pot avea un risc mai mare de extindere in ganglioni limfatici sau tesuturi apropiate si o probabilitate mai mare de recidiva dupa tratament. De aceea, identificarea mutatiei este importanta pentru a stabili un plan terapeutic corect si tintit.
+Determinarea mutatiei V600E din gena BRAF reprezinta un element important in stabilirea unui tratament adecvat. Cu ajutorul acestei analize, medicul poate intelege mai bine comportamentul tumorii si poate alege terapia care iti ofera cele mai mari sanse de raspuns si de control al bolii. Fiecare informatie in plus inseamna o decizie mai buna. Iar fiecare decizie corecta, luata la timp, iti poate reda increderea si speranta.
+Sursa:
+Loo E, Khalili P, Beuhler K, Siddiqi I, Vasef MA. BRAF V600E Mutation Across Multiple Tumor Types: Correlation Between DNA-based Sequencing and Mutation-specific Immunohistochemistry. Appl Immunohistochem Mol Morphol. 2018 Nov/Dec;26(10):709-713. doi: 10.1097/PAI.0000000000000516. PMID: 29271794;
+www.hopkinsmedicine.org, https://www.hopkinsmedicine.org/health/conditions-and-diseases/braf-mutation-and-cancer, accesat la data 23.04.2025;
+genomics.ucsf.edu, https://genomics.ucsf.edu/content/braf-mutation-testing-including-v600e, accesat la data 23.04.2025.
+Cere o programare
+Nume
+Prenume
+Email
+Telefon
+Sunt de acord sa primesc e-mailuri despre noutati si oferte personalizate.
+Acord
+Prin completarea formularului de mai sus sunt de acord sa fiu contactat/a de catre Reteaua de sanatate REGINA MARIA in legatura cu serviciile medicale solicitate
+Acest site este protejat de reCAPTCHA si se aplica
+Politica de confidentialitate
+si
+Termeni si conditii
+.
+Suna in Contact Center

@@ -1,0 +1,110 @@
+https://www.reginamaria.ro/utile/dictionar-de-analize/testare-genetica-pentru-cancer-bronhopulmonar-panel-4-alk-ros1-braf-kras
+
+Contactează-ne!
+Ai simptome care te supără? Solicită chiar acum un sfat medical specializat.
+Solicită o programare
+Sună la 021 9268
+Ce este testarea genetică pentru cancer bronhopulmonar panel 4?
+Testarea genetică panel 4 pentru
+cancerul pulmonar
+este o investigație moleculară extinsă care analizează simultan un grup de patru gene esențiale implicate în creșterea tumorală: ALK, ROS1, BRAF și KRAS. Spre deosebire de Panelul 1 care se concentrează pe o singură țintă (EGFR), acest panel oferă o imagine mai largă asupra „motorului” molecular al cancerului, fiind vital pentru pacienții cu cancer pulmonar fără celule mici (NSCLC), în special adenocarcinom.
+Diferența față de Panelul 1 (EGFR)
+Dacă testarea EGFR este primul pas obligatoriu, Panelul 4 reprezintă pasul critic următor (sau concomitent). Genele analizate aici (în special ALK și ROS1) nu suferă mutații simple, ci rearanjamente complexe (se rup și se unesc greșit cu alte gene), necesitând tehnici de laborator specifice pentru detectare. Identificarea lor deschide ușa către tratamente complet diferite de cele pentru EGFR.
+De ce este importantă testarea genetică pentru cancer bronhopulmonar panel 4?
+Importanța acestui test rezidă în conceptul de „tratament potrivit pentru pacientul potrivit”. Dacă un pacient are o translocație ALK, de exemplu, chimioterapia clasică are rezultate modeste, în timp ce terapiile țintite (pastile specifice) pot oferi remisiuni de lungă durată, chiar și în stadii avansate cu
+metastaze
+. Panelul 4 asigură că nicio opțiune terapeutică modernă nu este ratată.
+Cum se realizează analiza?
+La fel ca în cazul altor teste genetice oncologice, procedura nu implică o nouă recoltare de sânge sau intervenție chirurgicală asupra pacientului, ci se bazează pe țesutul tumoral deja existent. Se utilizează blocul de parafină (biopsia conservată). Laboratorul folosește tehnici combinate (IHC - Imunohistochimie, FISH - Hibridizare in situ sau NGS) pentru a interoga cele 4 gene.
+Valorile de referință pentru testarea genetică pentru cancer bronhopulmonar panel 4: interpretarea rezultatelor
+Important: Rezultatele sunt calitative și specifice pentru fiecare genă în parte. Interpretarea se face integrat de către medicul oncolog.
+Gena analizată
+Rezultat și semnificație
+ALK / ROS1
+Pozitiv:
+prezintă rearanjament (translocație). Indică răspuns excelent la inhibitori specifici.
+Negativ:
+gena este intactă.
+BRAF / KRAS
+Pozitiv:
+< prezintă mutație activatoare (ex: BRAF V600E sau KRAS G12C).
+Negativ:
+gena este „Wild Type” (normală).
+Rezultat pozitiv (mutație/translocație prezentă): ce înseamnă?
+Un rezultat pozitiv la oricare dintre cele 4 gene identifică mecanismul unic care determină proliferarea cancerului la acel pacient. De regulă, aceste mutații se exclud reciproc (un pacient are ori ALK, ori KRAS, foarte rar ambele).
+ALK/ROS1 pozitiv:
+apare mai des la nefumători sau persoane tinere. Tratamentul constă în inhibitori ALK/ROS1 foarte potenți.
+BRAF pozitiv:
+indică eligibilitate pentru terapii combinate anti-BRAF/MEK.
+KRAS pozitiv:
+este cea mai frecventă mutație la fumători. Deși istoric era greu de tratat, acum există terapii țintite pentru anumite subtipuri (ex: KRAS G12C).
+Rezultat negativ: ce înseamnă?
+Un rezultat negativ pentru toate cele patru gene înseamnă că tumora nu este condusă de aceste căi moleculare.
+Implicații:
+dacă și EGFR a fost negativ, medicul se va orienta către analiza markerului PD-L1 (pentru imunoterapie) sau către chimioterapia standard.
+Scopul testării genetice pentru cancer bronhopulmonar panel 4: pentru ce afecțiuni este recomandată?
+Testul este esențial pentru stadializarea moleculară completă, dictând linia de tratament în cancerul pulmonar avansat.
+Afecțiuni principale diagnosticate și monitorizate:
+Adenocarcinom pulmonar stadiul IV:
+pentru alegerea terapiei sistemice.
+Carcinom scuamos:
+se testează doar în cazuri selecționate (pacienți nefumători).
+Monitorizarea recidivei:
+uneori necesar pentru a înțelege mecanismele de rezistență la tratament.
+Ce măsoară de fapt testarea genetică pentru cancer bronhopulmonar panel 4?
+Analiza investighează prezența unor erori structurale majore în ADN-ul celulelor tumorale:
+Fuziuni genice (ALK, ROS1):
+cromozomi care s-au rupt și s-au lipit greșit.
+Mutații punctiforme (BRAF, KRAS):
+modificări ale unei singure baze azotate în codul genetic.
+Când este recomandată testarea genetică pentru cancer bronhopulmonar panel 4?
+Analiza se recomandă fie simultan cu testarea EGFR (pentru a câștiga timp), fie imediat după ce EGFR a ieșit negativ. Este standardul de îngrijire pentru orice pacient nou diagnosticat cu boală metastatică sau local avansată inoperabilă.
+Simptome/context asociat:
+Nu depinde de simptome, ci de diagnosticul de laborator (histopatologic).
+Este foarte importantă în cazurile cu evoluție rapidă sau metastaze cerebrale, unde terapiile țintite au o penetrare mai bună decât chimioterapia.
+Cum te pregătești pentru testarea genetică pentru cancer bronhopulmonar panel 4 la Regina Maria?
+Înainte de analiză:
+Verificarea țesutului:
+acesta este pasul critic. Deoarece se testează 4 gene (plus EGFR anterior), este posibil ca materialul din biopsie să se epuizeze. Medicul patolog trebuie să confirme că există suficient țesut în blocul de parafină.
+Fără pregătire biologică:
+nu contează dieta sau medicamentele.
+În ziua analizei:
+Predarea blocului de parafină și a documentației la laborator.
+Ce întrebări să adresezi medicului despre testarea genetică pentru cancer bronhopulmonar panel 4?
+Iată câteva întrebări importante pe care le poți adresa medicului:
+De ce este nevoie să testăm 4 gene și nu doar una?
+Există suficient țesut în biopsia mea pentru toate aceste teste sau risc un rezultat neconcludent?
+Dacă am o mutație rară (ROS1), există tratament disponibil/decontat?
+Cât durează rezultatul (fiind vorba de un panel complex)?
+Cât de urgent trebuie să efectuez această analiză?
+Întrebări frecvente (FAQ) despre testarea genetică pentru cancer bronhopulmonar panel 4
+Cât durează până primesc rezultatele pentru testarea genetică pentru cancer bronhopulmonar panel 4?
+Deoarece implică testarea mai multor gene, uneori prin metode diferite (FISH, IHC, PCR), rezultatele sunt eliberate, de regulă, în 10-14 zile lucrătoare.
+Ce înseamnă dacă rezultatul este parțial?
+Uneori, laboratorul poate raporta rezultatul pentru o genă (ex: KRAS pozitiv) mai repede. Deoarece prezența unei mutații majore le exclude de obicei pe celelalte, acest rezultat parțial poate fi suficient pentru a începe tratamentul.
+Unde pot efectua testarea genetică pentru cancer bronhopulmonar panel 4 în cadrul rețelei Regina Maria?
+Blocurile de parafină se pot depune la orice punct de recoltare sau clinică din rețea, urmând circuitul către Laboratorul de Genetică Moleculară. Consultă lista locațiilor:
+https://www.reginamaria.ro/locatii
+Este testarea genetică pentru cancer bronhopulmonar panel 4 decontată prin Casa de Asigurări de Sănătate (CAS)?
+Da, testarea moleculară extinsă pentru cancerul pulmonar (ALK, ROS1, BRAF) este inclusă în Programul Național de Oncologie și poate fi decontată prin CAS pe baza voucherului eliberat de medicul oncolog. Pentru detalii complete:
+https://www.reginamaria.ro/cas
+Ce acte sunt necesare pentru a beneficia de decontare CAS la analizele Regina Maria?
+Pentru decontare este nevoie de: biletul de trimitere/voucher tipizat (PNS), Cardul Național de Asigurări de Sănătate, actul de identitate și copia buletinului histopatologic.
+Care este valabilitatea biletului de trimitere pentru analize medicale decontate?
+Valabilitatea biletului de trimitere este, în general, de 30 de zile calendaristice de la data emiterii.
+⚠️
+Disclaimer: Acest articol este cu titlu informativ și nu constituie o recomandare medicală. Informațiile din acest material nu înlocuiesc consultul medical sau recomandările specialistului.
+Cere o programare
+Nume
+Prenume
+Email
+Telefon
+Sunt de acord sa primesc e-mailuri despre noutati si oferte personalizate.
+Acord
+Prin completarea formularului de mai sus sunt de acord sa fiu contactat/a de catre Reteaua de sanatate REGINA MARIA in legatura cu serviciile medicale solicitate
+Acest site este protejat de reCAPTCHA si se aplica
+Politica de confidentialitate
+si
+Termeni si conditii
+.
+Suna in Contact Center
