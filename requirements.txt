@@ -2,6 +2,7 @@ streamlit
 langchain-classic
 langchain-google-genai
 langchain-huggingface
+langchain-community
 sentence-transformers
 faiss-cpu
 python-dotenv
