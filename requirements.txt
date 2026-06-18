@@ -1,6 +1,7 @@
 streamlit
 langchain-classic
 langchain-google-genai
+langchain-huggingface
 sentence-transformers
 faiss-cpu
 python-dotenv
