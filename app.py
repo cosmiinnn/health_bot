@@ -14,9 +14,8 @@ from langchain_core.prompts import PromptTemplate
 load_dotenv()
 api_key_env = os.getenv("GOOGLE_API_KEY")
 
-st.set_page_config(page_title="Health Bot Hibrid", page_icon="🧬", layout="wide")
-st.title("🧬 Asistent Medical AI (Arhitectură Hibridă)")
-st.markdown("*Bază de date locală (Multilingual) + Google Gemini*")
+st.set_page_config(page_title="Health Bot", page_icon="🧬", layout="wide")
+st.title("🧬 Health Bot")
 
 # BAZA DE DATE LOCALĂ ---
 @st.cache_resource
@@ -61,12 +60,11 @@ PROMPT_MEDICAL = PromptTemplate(template=prompt_medical_template, input_variable
 
 # INTERFAȚA LATERALĂ ---
 with st.sidebar:
-    st.header("⚙️ Configurare Google")
+    st.header("⚙️ Configurare model")
     
     modele_disponibile = {
-        "Gemini 3.5 Flash": "gemini-3.5-flash",
-        "Gemini 2.5 Pro": "gemini-2.5-pro",
-        "Gemini 2.5 Flash": "gemini-2.5-flash"
+        "Gemini 2.5 Flash": "gemini-2.5-flash",
+        "Gemini 3.5 Flash": "gemini-3.5-flash"
     }
 
     nume_model_selectat = st.selectbox("Alege modelul Google:", list(modele_disponibile.keys()))
@@ -75,7 +73,6 @@ with st.sidebar:
     if not api_key_env:
         api_key_manual = st.text_input("Introdu Google API Key:", type="password")
     else:
-        st.success("✅ Cheia Google API a fost încărcată.")
         api_key_manual = api_key_env
 
     if st.button("🗑️ Șterge Conversația"):
